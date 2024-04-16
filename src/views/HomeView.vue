@@ -2,6 +2,7 @@
 import Carousel from "../components/home/carousel.vue";
 import Home from "../components/home/home.vue";
 import Carrers from "../../src/components/home/carrers.vue";
+import Collaborators from "../components/home/collaborators.vue";
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import Carrers from "../../src/components/home/carrers.vue";
     <Home />
     <Carousel />
     <Carrers />
+    <Collaborators />
   </section>
 </template>
 
@@ -17,5 +19,6 @@ import Carrers from "../../src/components/home/carrers.vue";
   display: flex;
   flex-direction: column;
   gap: 3em;
+  margin-bottom: 3em;
 }
 </style>
