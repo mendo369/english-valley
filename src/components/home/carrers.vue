@@ -90,7 +90,7 @@ const router = useRouter();
 .programs {
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   gap: 2em;
   flex-wrap: wrap;
 }
