@@ -116,42 +116,42 @@ const router = useRouter();
 }
 
 #admon {
-  background-image: url("admon.webp");
+  background-image: url("https://english-valley.netlify.app/admon.webp");
 }
 
 #const {
-  background-image: url("construccion.jpg");
+  background-image: url("https://english-valley.netlify.app/construccion.jpg");
 }
 
 #cont {
-  background-image: url("contaduria.png");
+  background-image: url("https://english-valley.netlify.app/contaduria.png");
 }
 
 #ing-ali {
-  background-image: url("ing-alimentos.jpg");
+  background-image: url("https://english-valley.netlify.app/ing-alimentos.jpg");
 }
 
 #ing-sis {
-  background-image: url("ingenieria-de-sistemas.webp");
+  background-image: url("https://english-valley.netlify.app/ingenieria-de-sistemas.webp");
 }
 
 #nut {
-  background-image: url("nutricion.jpg");
+  background-image: url("https://english-valley.netlify.app/nutricion.jpg");
 }
 
 #tec-ali {
-  background-image: url("tec-alimentos.webp");
+  background-image: url("https://english-valley.netlify.app/tec-alimentos.webp");
 }
 
 #tec-des {
-  background-image: url("tec-desarrollo.jpg");
+  background-image: url("https://english-valley.netlify.app/tec-desarrollo.jpg");
 }
 
 #tec-ele {
-  background-image: url("tec-electronica.jpg");
+  background-image: url("https://english-valley.netlify.app/tec-electronica.jpg");
 }
 
 #ts {
-  background-image: url("ts.jpg");
+  background-image: url("https://english-valley.netlify.app/ts.jpg");
 }
 </style>
