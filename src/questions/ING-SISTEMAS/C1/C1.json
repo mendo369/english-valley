@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Explain the concept of 'dependency injection' in software development.",
+    "options": [
+      "A technique to resolve dependencies between different components of a software system",
+      "A method to inject bugs into a software system",
+      "A strategy to optimize database queries"
+    ],
+    "correct": "A technique to resolve dependencies between different components of a software system"
+  },
+  {
+    "question": "What is 'continuous integration'?",
+    "options": [
+      "A practice of frequently integrating code changes into a shared repository",
+      "A method of testing software after it's completed",
+      "An approach to developing software without feedback loops"
+    ],
+    "correct": "A practice of frequently integrating code changes into a shared repository"
+  },
+  {
+    "question": "Discuss the role of 'design patterns' in software engineering.",
+    "options": [
+      "Design patterns are reusable solutions to common problems in software design",
+      "Design patterns are only applicable to small projects",
+      "Design patterns are outdated concepts in modern software development"
+    ],
+    "correct": "Design patterns are reusable solutions to common problems in software design"
+  },
+  {
+    "question": "What is 'aspect-oriented programming' (AOP)?",
+    "options": [
+      "A programming paradigm that aims to increase modularity by allowing separation of cross-cutting concerns",
+      "A method to improve code readability",
+      "A technique to optimize database performance"
+    ],
+    "correct": "A programming paradigm that aims to increase modularity by allowing separation of cross-cutting concerns"
+  },
+  {
+    "question": "Explain the concept of 'test-driven development' (TDD).",
+    "options": [
+      "A software development approach where tests are written before the code",
+      "A technique to avoid testing during development",
+      "A method to improve user interface design"
+    ],
+    "correct": "A software development approach where tests are written before the code"
+  },
+  {
+    "question": "What is 'concurrency' in software development?",
+    "options": [
+      "The ability of a system to perform multiple tasks simultaneously",
+      "A technique to minimize code duplication",
+      "A method to optimize database queries"
+    ],
+    "correct": "The ability of a system to perform multiple tasks simultaneously"
+  },
+  {
+    "question": "Discuss the significance of 'software architecture' in large-scale projects.",
+    "options": [
+      "Software architecture defines the structure and behavior of a software system",
+      "Software architecture is only relevant for small projects",
+      "Software architecture is not important in modern software development"
+    ],
+    "correct": "Software architecture defines the structure and behavior of a software system"
+  },
+  {
+    "question": "What is 'unit testing'?",
+    "options": [
+      "Testing individual units or components of a software system",
+      "Testing the entire software system as a whole",
+      "Testing the user interface of a software application"
+    ],
+    "correct": "Testing individual units or components of a software system"
+  },
+  {
+    "question": "Explain the concept of 'code refactoring'.",
+    "options": [
+      "Restructuring existing code without changing its external behavior",
+      "Adding new features to a software application",
+      "Optimizing code for better performance"
+    ],
+    "correct": "Restructuring existing code without changing its external behavior"
+  },
+  {
+    "question": "Discuss the importance of 'code documentation' in software development.",
+    "options": [
+      "Code documentation improves maintainability and readability of code",
+      "Code documentation is unnecessary for experienced developers",
+      "Code documentation only adds overhead to the development process"
+    ],
+    "correct": "Code documentation improves maintainability and readability of code"
+  }
+]

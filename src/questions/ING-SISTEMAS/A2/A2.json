@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What is the main function of a 'compiler'?",
+    "options": [
+      "To translate source code into machine code",
+      "To execute the program",
+      "To debug the program"
+    ],
+    "correct": "To translate source code into machine code"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "High Tech Programming",
+      "Hyperlink Text Protocol"
+    ],
+    "correct": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "What is the purpose of 'debugging' in programming?",
+    "options": [
+      "To remove errors from the program",
+      "To speed up the program",
+      "To write new code"
+    ],
+    "correct": "To remove errors from the program"
+  },
+  {
+    "question": "What is the file extension for a JavaScript file?",
+    "options": [".js", ".html", ".css"],
+    "correct": ".js"
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": [
+      "Local Access Network",
+      "Local Area Network",
+      "Large Area Network"
+    ],
+    "correct": "Local Area Network"
+  },
+  {
+    "question": "Which of the following is not a type of data storage device?",
+    "options": ["Hard Drive", "RAM", "CPU"],
+    "correct": "CPU"
+  },
+  {
+    "question": "What is the purpose of an 'if' statement in programming?",
+    "options": [
+      "To execute a block of code if a condition is true",
+      "To repeat a block of code multiple times",
+      "To define a function"
+    ],
+    "correct": "To execute a block of code if a condition is true"
+  },
+  {
+    "question": "What is the function of an 'operating system'?",
+    "options": [
+      "To manage computer hardware and software resources",
+      "To create web pages",
+      "To write code"
+    ],
+    "correct": "To manage computer hardware and software resources"
+  },
+  {
+    "question": "Which of the following is used for version control?",
+    "options": ["Git", "HTML", "Python"],
+    "correct": "Git"
+  },
+  {
+    "question": "What is the purpose of 'encryption' in computer security?",
+    "options": [
+      "To protect data by converting it into a code",
+      "To speed up internet connection",
+      "To design user interfaces"
+    ],
+    "correct": "To protect data by converting it into a code"
+  }
+]

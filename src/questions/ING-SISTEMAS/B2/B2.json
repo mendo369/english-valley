@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the purpose of 'object-oriented programming'?",
+    "options": [
+      "To organize code into reusable objects",
+      "To create web pages",
+      "To manage databases"
+    ],
+    "correct": "To organize code into reusable objects"
+  },
+  {
+    "question": "What is a 'data structure'?",
+    "options": [
+      "A way of organizing and storing data",
+      "A programming language",
+      "A type of computer hardware"
+    ],
+    "correct": "A way of organizing and storing data"
+  },
+  {
+    "question": "What does 'TCP/IP' stand for?",
+    "options": [
+      "Transmission Control Protocol/Internet Protocol",
+      "Technical Communication Protocol/Information Protocol",
+      "Transfer Control Process/Internet Procedure"
+    ],
+    "correct": "Transmission Control Protocol/Internet Protocol"
+  },
+  {
+    "question": "What is 'artificial intelligence'?",
+    "options": [
+      "The simulation of human intelligence by machines",
+      "A programming language",
+      "A type of network protocol"
+    ],
+    "correct": "The simulation of human intelligence by machines"
+  },
+  {
+    "question": "What is 'big data'?",
+    "options": [
+      "Large volumes of data that cannot be processed with traditional methods",
+      "A type of computer virus",
+      "A programming language"
+    ],
+    "correct": "Large volumes of data that cannot be processed with traditional methods"
+  },
+  {
+    "question": "What is a 'framework' in software development?",
+    "options": [
+      "A pre-built set of libraries and tools for building software applications",
+      "A programming language feature",
+      "A type of hardware component"
+    ],
+    "correct": "A pre-built set of libraries and tools for building software applications"
+  },
+  {
+    "question": "What is 'machine learning'?",
+    "options": [
+      "A subset of artificial intelligence that enables computers to learn from data",
+      "A type of network configuration",
+      "A software development methodology"
+    ],
+    "correct": "A subset of artificial intelligence that enables computers to learn from data"
+  },
+  {
+    "question": "What does 'SSH' stand for?",
+    "options": [
+      "Secure Shell",
+      "System Software Hub",
+      "Structured Server Hosting"
+    ],
+    "correct": "Secure Shell"
+  },
+  {
+    "question": "What is a 'packet' in networking?",
+    "options": [
+      "A unit of data transmitted over a network",
+      "A type of network configuration",
+      "A programming language feature"
+    ],
+    "correct": "A unit of data transmitted over a network"
+  },
+  {
+    "question": "What is 'parallel computing'?",
+    "options": [
+      "A type of computation in which many calculations are carried out simultaneously",
+      "A software development methodology",
+      "A network protocol"
+    ],
+    "correct": "A type of computation in which many calculations are carried out simultaneously"
+  }
+]

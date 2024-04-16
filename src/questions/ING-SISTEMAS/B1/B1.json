@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the purpose of a 'database'?",
+    "options": [
+      "To store and manage data",
+      "To display web pages",
+      "To write code"
+    ],
+    "correct": "To store and manage data"
+  },
+  {
+    "question": "What does 'API' stand for?",
+    "options": [
+      "Application Program Interface",
+      "Advanced Programming Instruction",
+      "Automated Protocol Integration"
+    ],
+    "correct": "Application Program Interface"
+  },
+  {
+    "question": "What is the function of a 'web server'?",
+    "options": [
+      "To serve web pages to clients",
+      "To store databases",
+      "To compile code"
+    ],
+    "correct": "To serve web pages to clients"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "User Research Language",
+      "Universal Remote Link"
+    ],
+    "correct": "Uniform Resource Locator"
+  },
+  {
+    "question": "What is 'agile development'?",
+    "options": [
+      "A software development methodology",
+      "A programming language",
+      "A computer virus"
+    ],
+    "correct": "A software development methodology"
+  },
+  {
+    "question": "What is the purpose of 'version control' in software development?",
+    "options": [
+      "To manage changes to source code over time",
+      "To speed up program execution",
+      "To design user interfaces"
+    ],
+    "correct": "To manage changes to source code over time"
+  },
+  {
+    "question": "What is 'cloud computing'?",
+    "options": [
+      "The delivery of computing services over the internet",
+      "A type of computer hardware",
+      "A programming language"
+    ],
+    "correct": "The delivery of computing services over the internet"
+  },
+  {
+    "question": "What is 'cybersecurity'?",
+    "options": [
+      "Protecting computer systems from theft or damage to their hardware, software, or electronic data",
+      "Developing web applications",
+      "Studying computer algorithms"
+    ],
+    "correct": "Protecting computer systems from theft or damage to their hardware, software, or electronic data"
+  },
+  {
+    "question": "What does 'GUI' mean?",
+    "options": [
+      "Graphical User Interface",
+      "General Utility Interface",
+      "Global Unique Identifier"
+    ],
+    "correct": "Graphical User Interface"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query Language",
+      "Software Quality Lifecycle"
+    ],
+    "correct": "Structured Query Language"
+  }
+]

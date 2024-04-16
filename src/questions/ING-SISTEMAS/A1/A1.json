@@ -1,0 +1,76 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hypertext Markup Language",
+      "High-Tech Mobile Language",
+      "Hyperlink Text Messaging Language"
+    ],
+    "correct": "Hypertext Markup Language"
+  },
+  {
+    "question": "Which programming language is most commonly used for web development?",
+    "options": ["Java", "Python", "JavaScript"],
+    "correct": "JavaScript"
+  },
+  {
+    "question": "What is CSS?",
+    "options": [
+      "Computer System Software",
+      "Cascading Style Sheets",
+      "Code Syntax System"
+    ],
+    "correct": "Cascading Style Sheets"
+  },
+  {
+    "question": "Which of these is not a programming language?",
+    "options": ["HTML", "Java", "MySQL"],
+    "correct": "HTML"
+  },
+  {
+    "question": "What does 'IDE' stand for in programming context?",
+    "options": [
+      "Integrated Development Environment",
+      "Internet Development Entity",
+      "Interactive Design Enhancement"
+    ],
+    "correct": "Integrated Development Environment"
+  },
+  {
+    "question": "Which of these is used to store and organize data in a database?",
+    "options": ["CSS", "SQL", "XML"],
+    "correct": "SQL"
+  },
+  {
+    "question": "What is a 'loop' in programming?",
+    "options": [
+      "A mathematical function",
+      "A loop that repeats multiple times",
+      "A data type"
+    ],
+    "correct": "A loop that repeats multiple times"
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "options": ["Windows", "Excel", "Word"],
+    "correct": "Windows"
+  },
+  {
+    "question": "What is an 'array' in programming?",
+    "options": [
+      "A group of similar objects",
+      "A type of data structure",
+      "A computer network"
+    ],
+    "correct": "A type of data structure"
+  },
+  {
+    "question": "What does 'GUI' mean?",
+    "options": [
+      "Graphical User Interface",
+      "General Utility Interface",
+      "Global Unique Identifier"
+    ],
+    "correct": "Graphical User Interface"
+  }
+]

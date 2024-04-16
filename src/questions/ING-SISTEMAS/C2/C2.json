@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What are the characteristics of a 'microservices architecture'?",
+    "options": [
+      "Decomposes an application into smaller, manageable services",
+      "Consists of a single, monolithic service",
+      "Has no relevance in modern software development"
+    ],
+    "correct": "Decomposes an application into smaller, manageable services"
+  },
+  {
+    "question": "Discuss the principles of 'domain-driven design' (DDD).",
+    "options": [
+      "Focuses on the core domain and domain logic of a software application",
+      "Ignores the domain model and focuses solely on implementation",
+      "Is not applicable in software engineering"
+    ],
+    "correct": "Focuses on the core domain and domain logic of a software application"
+  },
+  {
+    "question": "What is 'event sourcing' in the context of software development?",
+    "options": [
+      "Storing the state of an application as a sequence of events",
+      "A method to optimize database performance",
+      "A technique to minimize code duplication"
+    ],
+    "correct": "Storing the state of an application as a sequence of events"
+  },
+  {
+    "question": "Explain the concept of 'domain-specific languages' (DSLs).",
+    "options": [
+      "Languages tailored to specific domains or problem areas",
+      "Languages with no specific purpose",
+      "Languages only used in academia"
+    ],
+    "correct": "Languages tailored to specific domains or problem areas"
+  },
+  {
+    "question": "Discuss the role of 'software architecture patterns' in designing complex systems.",
+    "options": [
+      "Provide proven solutions to recurring design problems",
+      "Are only applicable to small-scale projects",
+      "Have no relevance in modern software development"
+    ],
+    "correct": "Provide proven solutions to recurring design problems"
+  },
+  {
+    "question": "What is 'continuous deployment' in the context of software development?",
+    "options": [
+      "Automatically deploying code changes to production",
+      "Manually deploying code changes to production",
+      "Not deploying code changes at all"
+    ],
+    "correct": "Automatically deploying code changes to production"
+  },
+  {
+    "question": "Explain the concept of 'containerization' (e.g., Docker).",
+    "options": [
+      "A lightweight, portable, and self-sufficient environment for running applications",
+      "A method to optimize database queries",
+      "A technique to improve code readability"
+    ],
+    "correct": "A lightweight, portable, and self-sufficient environment for running applications"
+  },
+  {
+    "question": "What are the advantages of 'immutable infrastructure'?",
+    "options": [
+      "Enhanced reliability, scalability, and security",
+      "Decreased complexity and performance issues",
+      "Increased development speed"
+    ],
+    "correct": "Enhanced reliability, scalability, and security"
+  },
+  {
+    "question": "Discuss the importance of 'automated testing' in software development.",
+    "options": [
+      "Improves quality, reduces bugs, and speeds up development process",
+      "Adds unnecessary overhead to the development process",
+      "Is irrelevant in modern software development"
+    ],
+    "correct": "Improves quality, reduces bugs, and speeds up development process"
+  },
+  {
+    "question": "Explain the concept of 'architectural decision records' (ADRs).",
+    "options": [
+      "A way to capture architectural decisions made during software development",
+      "A technique to optimize code performance",
+      "A method to design user interfaces"
+    ],
+    "correct": "A way to capture architectural decisions made during software development"
+  }
+]

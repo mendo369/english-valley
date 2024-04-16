@@ -1,0 +1,36 @@
+:root {
+  /* color-scheme: light dark; */
+  --yellow-color: rgb(255, 205, 0);
+  --blue-color: rgb(0, 48, 135);
+  --red-color: rgb(200, 16, 46);
+  --red-univalle-color: rgb(252, 2, 4);
+  --white-univalle-color: rgb(252, 254, 252);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--white-univalle-color);
+  /* background-color: #f6f7f8; */
+  font-family: Arial, Helvetica, sans-serif;
+  color: #060c1f;
+  overflow-x: hidden;
+  scrollbar-width: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#app {
+  width: 100%;
+  height: 100vh;
+}
+
+input {
+  outline: none;
+}
