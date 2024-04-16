@@ -1,14 +1,19 @@
 <script setup>
 defineProps({
-  question: Object,
+  question: String,
+  options: Array,
+  correct: String,
 });
 </script>
 
 <template>
   <div class="question-c">
-    <div class="question">{{ question.question }}</div>
-    <div class="options">{{ question.options }}</div>
+    <div class="question">{{ question }}</div>
+    <div class="options">{{ options }}</div>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.question-c {
+}
+</style>
