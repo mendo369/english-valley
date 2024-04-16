@@ -1,4 +1,14 @@
-<script setup></script>
+<script setup>
+import { storeToRefs } from "pinia";
+import { questionsStore } from "../stores/questions";
+import Question from "../components/questions/question.vue";
+
+const { questions } = storeToRefs(questionsStore());
+
+const { getQuestions } = questionsStore();
+
+getQuestions("ING-SISTEMAS", "B1");
+</script>
 
 <template>
   <section class="ing-sistemas">
@@ -17,7 +27,15 @@
         <li class="level">C2</li>
       </ul>
     </div>
-    <div class="questions"></div>
+    <div class="questions">
+      <Question
+        v-for="question in questions"
+        :key="question.question"
+        :question="question.question"
+        :options="question.options"
+        :correct="question.correct"
+      />
+    </div>
   </section>
 </template>
 
@@ -43,3 +61,4 @@
   font-weight: bold;
 }
 </style>
+../stores/questions
