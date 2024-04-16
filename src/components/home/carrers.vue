@@ -116,42 +116,42 @@ const router = useRouter();
 }
 
 #admon {
-  background-image: url("admon.webp");
+  background-image: url("../../assets/admon.webp");
 }
 
 #const {
-  background-image: url("construccion.jpg");
+  background-image: url("../../assets/construccion.jpg");
 }
 
 #cont {
-  background-image: url("contaduria.png");
+  background-image: url("../../assets/contaduria.png");
 }
 
 #ing-ali {
-  background-image: url("ing-alimentos.jpg");
+  background-image: url("../../assets/ing-alimentos.jpg");
 }
 
 #ing-sis {
-  background-image: url("ingenieria-de-sistemas.webp");
+  background-image: url("../../assets/ingenieria-de-sistemas.webp");
 }
 
 #nut {
-  background-image: url("nutricion.jpg");
+  background-image: url("../../assets/nutricion.jpg");
 }
 
 #tec-ali {
-  background-image: url("tec-alimentos.webp");
+  background-image: url("../../assets/tec-alimentos.webp");
 }
 
 #tec-des {
-  background-image: url("tec-desarrollo.jpg");
+  background-image: url("../../assets/tec-desarrollo.jpg");
 }
 
 #tec-ele {
-  background-image: url("tec-electronica.jpg");
+  background-image: url("../../assets/tec-electronica.jpg");
 }
 
 #ts {
-  background-image: url("ts.jpg");
+  background-image: url("../../assets/ts.jpg");
 }
 </style>
