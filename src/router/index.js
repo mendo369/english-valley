@@ -16,6 +16,9 @@ const router = createRouter({
       component: () => import("../views/IngSistemas.vue"),
     },
   ],
+  scrollBehavior(to, from, savedPosition) {
+    return { x: 0, y: 0 };
+  },
 });
 
 export default router;

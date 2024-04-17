@@ -1,5 +1,12 @@
 <script setup>
 import { storeToRefs } from "pinia";
+// import { onMounted } from "vue";
+
+// onMounted(() => {
+//   window.scrollTo(0, 0);
+//   alert("hello");
+// });
+
 import { questionsStore } from "../stores/questions";
 import Question from "../components/questions/question.vue";
 
@@ -11,10 +18,7 @@ const { getQuestions } = questionsStore();
 getQuestions("ING-SISTEMAS", "A1");
 
 const changeLevel = (level) => {
-  console.log(level);
-  console.log(questions);
   getQuestions("ING-SISTEMAS", level);
-  console.log(questions);
 };
 </script>
 
@@ -88,6 +92,8 @@ const changeLevel = (level) => {
   display: grid;
   grid-template-rows: 10% 1fr;
   gap: 2em;
+  overflow-y: hidden;
+  height: 100%;
 }
 
 .levels ul {
@@ -124,5 +130,8 @@ const changeLevel = (level) => {
   flex-direction: column;
   align-items: center;
   gap: 1em;
+  /* min-height: 1200px; */
+  overflow-y: scroll;
+  scrollbar-width: none;
 }
 </style>

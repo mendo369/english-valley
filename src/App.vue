@@ -18,9 +18,9 @@ import Navbar from "../src/components/shared/nav.vue";
 .app {
   /* border: 4px solid green; */
   height: 100%;
-  overflow: hidden;
   display: grid;
   grid-template-rows: 10% 1fr;
+  overflow: hidden;
 }
 
 .render {

@@ -67,6 +67,10 @@ const checkAnswer = (correct) => {
   gap: 5px;
 }
 
+input {
+  cursor: pointer;
+}
+
 .check {
   display: flex;
   align-items: center;
@@ -83,7 +87,7 @@ const checkAnswer = (correct) => {
 }
 
 .check button {
-  background-color: #ddd;
+  background-color: #ffffff;
   border: 1px solid #ddd;
 }
 
