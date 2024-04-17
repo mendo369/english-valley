@@ -29,13 +29,14 @@
 }
 
 .presentation {
-  width: 40%;
+  width: auto;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 1.5em;
+  max-width: 350px;
 }
 
 .title {
@@ -47,6 +48,7 @@
   aspect-ratio: 16/9;
   overflow: hidden;
   border-radius: 10px;
+  min-width: 350px;
 }
 
 .img img {

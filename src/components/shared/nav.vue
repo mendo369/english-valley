@@ -1,8 +1,12 @@
-<script setup></script>
+<script setup>
+import { useRouter } from "vue-router";
+
+const router = useRouter();
+</script>
 
 <template>
   <div class="navbar">
-    <div class="logo">English Valley</div>
+    <div class="logo" @click="() => router.push('/')">English Valley</div>
     <div class="menu">Menú</div>
   </div>
 </template>
@@ -19,5 +23,9 @@
   justify-content: space-between;
   padding: 10px;
   /* border-radius: 0px 0px 10px 10px; */
+}
+
+.logo {
+  cursor: pointer;
 }
 </style>

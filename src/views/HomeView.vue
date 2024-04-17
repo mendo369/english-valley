@@ -3,6 +3,7 @@ import Carousel from "../components/home/carousel.vue";
 import Home from "../components/home/home.vue";
 import Carrers from "../../src/components/home/carrers.vue";
 import Collaborators from "../components/home/collaborators.vue";
+import NewsCollaborators from "../components/home/newsCollaborators.vue";
 </script>
 
 <template>
@@ -11,6 +12,7 @@ import Collaborators from "../components/home/collaborators.vue";
     <Carousel />
     <Carrers />
     <Collaborators />
+    <NewsCollaborators />
   </section>
 </template>
 

@@ -261,15 +261,288 @@
       },
       {
         "level": "B2",
-        "questions": []
+        "questions": [
+          {
+            "question": "What is the purpose of 'object-oriented programming'?",
+            "options": [
+              "To organize code into reusable objects",
+              "To create web pages",
+              "To manage databases"
+            ],
+            "correct": "To organize code into reusable objects"
+          },
+          {
+            "question": "What is a 'data structure'?",
+            "options": [
+              "A way of organizing and storing data",
+              "A programming language",
+              "A type of computer hardware"
+            ],
+            "correct": "A way of organizing and storing data"
+          },
+          {
+            "question": "What does 'TCP/IP' stand for?",
+            "options": [
+              "Transmission Control Protocol/Internet Protocol",
+              "Technical Communication Protocol/Information Protocol",
+              "Transfer Control Process/Internet Procedure"
+            ],
+            "correct": "Transmission Control Protocol/Internet Protocol"
+          },
+          {
+            "question": "What is 'artificial intelligence'?",
+            "options": [
+              "The simulation of human intelligence by machines",
+              "A programming language",
+              "A type of network protocol"
+            ],
+            "correct": "The simulation of human intelligence by machines"
+          },
+          {
+            "question": "What is 'big data'?",
+            "options": [
+              "Large volumes of data that cannot be processed with traditional methods",
+              "A type of computer virus",
+              "A programming language"
+            ],
+            "correct": "Large volumes of data that cannot be processed with traditional methods"
+          },
+          {
+            "question": "What is a 'framework' in software development?",
+            "options": [
+              "A pre-built set of libraries and tools for building software applications",
+              "A programming language feature",
+              "A type of hardware component"
+            ],
+            "correct": "A pre-built set of libraries and tools for building software applications"
+          },
+          {
+            "question": "What is 'machine learning'?",
+            "options": [
+              "A subset of artificial intelligence that enables computers to learn from data",
+              "A type of network configuration",
+              "A software development methodology"
+            ],
+            "correct": "A subset of artificial intelligence that enables computers to learn from data"
+          },
+          {
+            "question": "What does 'SSH' stand for?",
+            "options": [
+              "Secure Shell",
+              "System Software Hub",
+              "Structured Server Hosting"
+            ],
+            "correct": "Secure Shell"
+          },
+          {
+            "question": "What is a 'packet' in networking?",
+            "options": [
+              "A unit of data transmitted over a network",
+              "A type of network configuration",
+              "A programming language feature"
+            ],
+            "correct": "A unit of data transmitted over a network"
+          },
+          {
+            "question": "What is 'parallel computing'?",
+            "options": [
+              "A type of computation in which many calculations are carried out simultaneously",
+              "A software development methodology",
+              "A network protocol"
+            ],
+            "correct": "A type of computation in which many calculations are carried out simultaneously"
+          }
+        ]
       },
       {
         "level": "C1",
-        "questions": []
+        "questions": [
+          {
+            "question": "Explain the concept of 'dependency injection' in software development.",
+            "options": [
+              "A technique to resolve dependencies between different components of a software system",
+              "A method to inject bugs into a software system",
+              "A strategy to optimize database queries"
+            ],
+            "correct": "A technique to resolve dependencies between different components of a software system"
+          },
+          {
+            "question": "What is 'continuous integration'?",
+            "options": [
+              "A practice of frequently integrating code changes into a shared repository",
+              "A method of testing software after it's completed",
+              "An approach to developing software without feedback loops"
+            ],
+            "correct": "A practice of frequently integrating code changes into a shared repository"
+          },
+          {
+            "question": "Discuss the role of 'design patterns' in software engineering.",
+            "options": [
+              "Design patterns are reusable solutions to common problems in software design",
+              "Design patterns are only applicable to small projects",
+              "Design patterns are outdated concepts in modern software development"
+            ],
+            "correct": "Design patterns are reusable solutions to common problems in software design"
+          },
+          {
+            "question": "What is 'aspect-oriented programming' (AOP)?",
+            "options": [
+              "A programming paradigm that aims to increase modularity by allowing separation of cross-cutting concerns",
+              "A method to improve code readability",
+              "A technique to optimize database performance"
+            ],
+            "correct": "A programming paradigm that aims to increase modularity by allowing separation of cross-cutting concerns"
+          },
+          {
+            "question": "Explain the concept of 'test-driven development' (TDD).",
+            "options": [
+              "A software development approach where tests are written before the code",
+              "A technique to avoid testing during development",
+              "A method to improve user interface design"
+            ],
+            "correct": "A software development approach where tests are written before the code"
+          },
+          {
+            "question": "What is 'concurrency' in software development?",
+            "options": [
+              "The ability of a system to perform multiple tasks simultaneously",
+              "A technique to minimize code duplication",
+              "A method to optimize database queries"
+            ],
+            "correct": "The ability of a system to perform multiple tasks simultaneously"
+          },
+          {
+            "question": "Discuss the significance of 'software architecture' in large-scale projects.",
+            "options": [
+              "Software architecture defines the structure and behavior of a software system",
+              "Software architecture is only relevant for small projects",
+              "Software architecture is not important in modern software development"
+            ],
+            "correct": "Software architecture defines the structure and behavior of a software system"
+          },
+          {
+            "question": "What is 'unit testing'?",
+            "options": [
+              "Testing individual units or components of a software system",
+              "Testing the entire software system as a whole",
+              "Testing the user interface of a software application"
+            ],
+            "correct": "Testing individual units or components of a software system"
+          },
+          {
+            "question": "Explain the concept of 'code refactoring'.",
+            "options": [
+              "Restructuring existing code without changing its external behavior",
+              "Adding new features to a software application",
+              "Optimizing code for better performance"
+            ],
+            "correct": "Restructuring existing code without changing its external behavior"
+          },
+          {
+            "question": "Discuss the importance of 'code documentation' in software development.",
+            "options": [
+              "Code documentation improves maintainability and readability of code",
+              "Code documentation is unnecessary for experienced developers",
+              "Code documentation only adds overhead to the development process"
+            ],
+            "correct": "Code documentation improves maintainability and readability of code"
+          }
+        ]
       },
       {
         "level": "C2",
-        "questions": []
+        "questions": [
+          {
+            "question": "What are the characteristics of a 'microservices architecture'?",
+            "options": [
+              "Decomposes an application into smaller, manageable services",
+              "Consists of a single, monolithic service",
+              "Has no relevance in modern software development"
+            ],
+            "correct": "Decomposes an application into smaller, manageable services"
+          },
+          {
+            "question": "Discuss the principles of 'domain-driven design' (DDD).",
+            "options": [
+              "Focuses on the core domain and domain logic of a software application",
+              "Ignores the domain model and focuses solely on implementation",
+              "Is not applicable in software engineering"
+            ],
+            "correct": "Focuses on the core domain and domain logic of a software application"
+          },
+          {
+            "question": "What is 'event sourcing' in the context of software development?",
+            "options": [
+              "Storing the state of an application as a sequence of events",
+              "A method to optimize database performance",
+              "A technique to minimize code duplication"
+            ],
+            "correct": "Storing the state of an application as a sequence of events"
+          },
+          {
+            "question": "Explain the concept of 'domain-specific languages' (DSLs).",
+            "options": [
+              "Languages tailored to specific domains or problem areas",
+              "Languages with no specific purpose",
+              "Languages only used in academia"
+            ],
+            "correct": "Languages tailored to specific domains or problem areas"
+          },
+          {
+            "question": "Discuss the role of 'software architecture patterns' in designing complex systems.",
+            "options": [
+              "Provide proven solutions to recurring design problems",
+              "Are only applicable to small-scale projects",
+              "Have no relevance in modern software development"
+            ],
+            "correct": "Provide proven solutions to recurring design problems"
+          },
+          {
+            "question": "What is 'continuous deployment' in the context of software development?",
+            "options": [
+              "Automatically deploying code changes to production",
+              "Manually deploying code changes to production",
+              "Not deploying code changes at all"
+            ],
+            "correct": "Automatically deploying code changes to production"
+          },
+          {
+            "question": "Explain the concept of 'containerization' (e.g., Docker).",
+            "options": [
+              "A lightweight, portable, and self-sufficient environment for running applications",
+              "A method to optimize database queries",
+              "A technique to improve code readability"
+            ],
+            "correct": "A lightweight, portable, and self-sufficient environment for running applications"
+          },
+          {
+            "question": "What are the advantages of 'immutable infrastructure'?",
+            "options": [
+              "Enhanced reliability, scalability, and security",
+              "Decreased complexity and performance issues",
+              "Increased development speed"
+            ],
+            "correct": "Enhanced reliability, scalability, and security"
+          },
+          {
+            "question": "Discuss the importance of 'automated testing' in software development.",
+            "options": [
+              "Improves quality, reduces bugs, and speeds up development process",
+              "Adds unnecessary overhead to the development process",
+              "Is irrelevant in modern software development"
+            ],
+            "correct": "Improves quality, reduces bugs, and speeds up development process"
+          },
+          {
+            "question": "Explain the concept of 'architectural decision records' (ADRs).",
+            "options": [
+              "A way to capture architectural decisions made during software development",
+              "A technique to optimize code performance",
+              "A method to design user interfaces"
+            ],
+            "correct": "A way to capture architectural decisions made during software development"
+          }
+        ]
       }
     ]
   }
