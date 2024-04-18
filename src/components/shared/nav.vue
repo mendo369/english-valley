@@ -28,4 +28,8 @@ const router = useRouter();
 .logo {
   cursor: pointer;
 }
+
+.menu {
+  visibility: hidden;
+}
 </style>

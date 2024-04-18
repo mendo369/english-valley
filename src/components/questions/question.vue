@@ -23,7 +23,7 @@ const checkAnswer = (correct) => {
     alert("Good 👍");
   } else {
     alert("Ooops 😕");
-  }
+  } 
 };
 </script>
 

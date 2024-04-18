@@ -13,24 +13,24 @@ const router = useRouter();
       <li
         class="program"
         id="admon"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/administracion')"
       >
         <h1>Administración</h1>
       </li>
       <li
         class="program"
         id="const"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/construccion')"
       >
         <h1>Construcción</h1>
       </li>
-      <li class="program" id="cont" @click="() => router.push('/ing-sistemas')">
+      <li class="program" id="cont" @click="() => router.push('/contaduria')">
         <h1>contaduría</h1>
       </li>
       <li
         class="program"
         id="ing-ali"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/ing-alimentos')"
       >
         <h1>Ing. Alimentos</h1>
       </li>
@@ -41,31 +41,31 @@ const router = useRouter();
       >
         <h1>Ing. Sistemas</h1>
       </li>
-      <li class="program" id="nut" @click="() => router.push('/ing-sistemas')">
+      <li class="program" id="nut" @click="() => router.push('/nutricion')">
         <h1>Nutrición</h1>
       </li>
       <li
         class="program"
         id="tec-ali"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/tec-alimentos')"
       >
         <h1>Tec. Alimentos</h1>
       </li>
       <li
         class="program"
         id="tec-des"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/desarrollo-software')"
       >
         <h1>Tec. Desarrollo de Software</h1>
       </li>
       <li
         class="program"
         id="tec-ele"
-        @click="() => router.push('/ing-sistemas')"
+        @click="() => router.push('/tec-electronica')"
       >
         <h1>Tec. Electrónica</h1>
       </li>
-      <li class="program" id="ts" @click="() => router.push('/ing-sistemas')">
+      <li class="program" id="ts" @click="() => router.push('/trabajo-social')">
         <h1>Trabajo Social</h1>
       </li>
     </ul>

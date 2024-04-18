@@ -18,8 +18,8 @@ export const questionsStore = defineStore({
         this.questions = questions;
         this.level = level;
       } catch (error) {
-        console.error("Error al obtener las preguntas:", error);
-        return [];
+        this.questions = [];
+        this.level = level;
       }
     },
   },

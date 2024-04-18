@@ -9,15 +9,15 @@ const { level } = storeToRefs(questionsStore());
 
 const { getQuestions } = questionsStore();
 
-getQuestions("ING-SISTEMAS", "A1");
+getQuestions("ADMINISTRACION", "A1");
 
 const changeLevel = (level) => {
-  getQuestions("ING-SISTEMAS", level);
+  getQuestions("ADMINISTRACION", level);
 };
 </script>
 
 <template>
-  <section class="ing-sistemas">
+  <section class="admon">
     <div class="levels">
       <ul>
         <li
@@ -70,7 +70,9 @@ const changeLevel = (level) => {
       </ul>
     </div>
     <div class="questions">
+      <div v-if="questions.length < 1">No hay preguntas para mostrar 😕</div>
       <Question
+        v-else
         v-for="question in questions"
         :key="question.question"
         :question="question.question"
@@ -82,7 +84,7 @@ const changeLevel = (level) => {
 </template>
 
 <style scoped>
-.ing-sistemas {
+.admon {
   display: grid;
   grid-template-rows: 10% 1fr;
   gap: 2em;
