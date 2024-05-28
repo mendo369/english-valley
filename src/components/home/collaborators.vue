@@ -10,6 +10,15 @@
         </div>
         <span class="name">Luis Mendoza</span>
       </div>
+      <div class="collaborator">
+        <div class="img">
+          <img
+            src="../../assets/collaborators/kevin_bejarano.jpg"
+            alt="Kevin B"
+          />
+        </div>
+        <span class="name">Kevin Bejarano</span>
+      </div>
     </div>
   </section>
 </template>
