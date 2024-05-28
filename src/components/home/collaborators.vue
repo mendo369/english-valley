@@ -40,6 +40,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  gap: 1em;
 }
 
 .collaborator {
