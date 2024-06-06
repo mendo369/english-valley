@@ -12,6 +12,12 @@
       </div>
       <div class="collaborator">
         <div class="img">
+          <img src="../../assets/collaborators/daniel_grajales.jpg" alt="Daniel Grajales" />
+        </div>
+        <span class="name">Daniel Grajales</span>
+      </div>
+      <div class="collaborator">
+        <div class="img">
           <img
             src="../../assets/collaborators/kevin_bejarano.jpg"
             alt="Kevin B"
