@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What is the significance of a company's mission statement?",
+      "options": [
+        "To define the company's core purpose and focus",
+        "To detail the financial performance",
+        "To outline employee responsibilities"
+      ],
+      "correct": "To define the company's core purpose and focus"
+    },
+    {
+      "question": "What is economies of scale?",
+      "options": [
+        "A reduction in costs per unit due to increased production",
+        "An increase in prices due to higher demand",
+        "A financial statement analysis technique"
+      ],
+      "correct": "A reduction in costs per unit due to increased production"
+    },
+    {
+      "question": "What is a balance sheet?",
+      "options": [
+        "A statement of a company's financial position",
+        "A list of employees and their salaries",
+        "A document outlining marketing strategies"
+      ],
+      "correct": "A statement of a company's financial position"
+    },
+    {
+      "question": "What does KPI stand for?",
+      "options": [
+        "Key Performance Indicator",
+        "Knowledge Process Integration",
+        "Key Product Information"
+      ],
+      "correct": "Key Performance Indicator"
+    },
+    {
+      "question": "What is market segmentation?",
+      "options": [
+        "The process of dividing a market into distinct groups of buyers",
+        "The merger of two companies",
+        "The reduction of workforce in a company"
+      ],
+      "correct": "The process of dividing a market into distinct groups of buyers"
+    }
+  ]
+  

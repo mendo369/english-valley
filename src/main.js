@@ -14,7 +14,7 @@ pinia.use(({ store }) => {
 
 router.beforeEach((to, from) => {
   if (to.path !== from.path) {
-    window.scrollTo(0, 0);
+    window.scrollTo(0,0);
   }
 });
 
