@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the purpose of a business plan?",
+      "options": [
+        "To attract investors",
+        "To hire employees",
+        "To organize a party"
+      ],
+      "correct": "To attract investors"
+    },
+    {
+      "question": "What is an asset?",
+      "options": [
+        "A liability",
+        "A valuable resource owned by the company",
+        "An expense"
+      ],
+      "correct": "A valuable resource owned by the company"
+    },
+    {
+      "question": "What is the main function of the finance department?",
+      "options": [
+        "To create advertising campaigns",
+        "To manage the company's money",
+        "To sell products"
+      ],
+      "correct": "To manage the company's money"
+    },
+    {
+      "question": "What does SWOT stand for?",
+      "options": [
+        "Strengths, Weaknesses, Opportunities, Threats",
+        "Sales, Wages, Organization, Taxes",
+        "Systems, Work, Output, Targets"
+      ],
+      "correct": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    {
+      "question": "What is a merger?",
+      "options": [
+        "A meeting between managers",
+        "A combination of two companies into one",
+        "A new marketing strategy"
+      ],
+      "correct": "A combination of two companies into one"
+    },
+    {
+      "question": "What is a stakeholder?",
+      "options": [
+        "Someone who owns shares in the company",
+        "A person who works in the company",
+        "Anyone affected by the company's actions"
+      ],
+      "correct": "Anyone affected by the company's actions"
+    },
+    {
+      "question": "What is the purpose of market research?",
+      "options": [
+        "To study customer needs and preferences",
+        "To find a new office location",
+        "To manage employee performance"
+      ],
+      "correct": "To study customer needs and preferences"
+    },
+    {
+      "question": "What is a supply chain?",
+      "options": [
+        "A series of steps to deliver a product to the customer",
+        "A financial report",
+        "A marketing strategy"
+      ],
+      "correct": "A series of steps to deliver a product to the customer"
+    },
+    {
+      "question": "What is a brand?",
+      "options": [
+        "A company's identity and image",
+        "A type of product",
+        "A sales target"
+      ],
+      "correct": "A company's identity and image"
+    },
+    {
+      "question": "What is the role of customer service?",
+      "options": [
+        "To answer customer inquiries and resolve issues",
+        "To develop new products",
+        "To create financial reports"
+      ],
+      "correct": "To answer customer inquiries and resolve issues"
+    }
+  ]
+  

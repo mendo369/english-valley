@@ -545,5 +545,414 @@
         ]
       }
     ]
+  },
+
+  {
+    "program": "ADMIN-EMPRESAS",
+    "levels": [
+               
+      {
+          "level": "A1",
+         "questions": [
+        {
+          "question": "What is the role of a manager in a company?",
+          "options": [
+          "To clean the office",
+          "To lead and organize the team",
+          "To design the company logo"
+          ],
+          "correct": "To lead and organize the team"
+        },
+        {
+          "question": "Which department is responsible for hiring new employees?",
+          "options": [
+              "Marketing",
+              "Human Resources",
+              "Sales"
+          ],
+          "correct": "Human Resources"
+        },
+
+        {
+          "question": "What is a budget?",
+          "options": [
+              "A plan for spending money",
+              "A type of computer software",
+              "A meeting with clients"
+          ],
+          "correct": "A plan for spending money"
+        },
+
+        {
+          "question": "What is a common tool used for presentations in a business meeting?",
+          "options": [
+              "A calculator",
+              "A projector",
+              "A stapler"
+          ],
+          "correct": "A projector"
+        },
+
+        {
+          "question": "What is an invoice?",
+          "options": [
+            "A request for payment",
+            "A company policy",
+            "A job application"
+          ],
+          "correct": "A request for payment"
+        },
+
+        {
+          "question": "Who is the CEO?",
+          "options": [
+            "The Chief Executive Officer",
+            "The office cleaner",
+            "The person in charge of sales"
+          ],
+          "correct": "The Chief Executive Officer"
+        },
+        {
+          "question": "What is a 'deadline'?",
+          "options": [
+            "The end date for a project",
+            "The name of a new product",
+            "A type of office furniture"
+          ],
+          "correct": "The end date for a project"
+        },
+        {
+          "question": "Which department handles advertising and promotions?",
+          "options": [
+            "Finance",
+            "Marketing",
+            "IT"
+          ],
+          "correct": "Marketing"
+        },
+        {
+          "question": "What does 'profit' mean in business?",
+          "options": [
+            "The total amount of sales",
+            "The money made after all expenses",
+            "The cost of production"
+          ],
+          "correct": "The money made after all expenses"
+        },
+        {
+          "question": "What is a 'meeting'?",
+          "options": [
+            "A place to park cars",
+            "A gathering of people to discuss something",
+            "A document to sign"
+          ],
+          "correct": "A gathering of people to discuss something"
+        }
+      ]
+      },
+
+      {
+          "level": "A2",
+           "questions": [
+              {
+                  "question": "What is the purpose of a business plan?",
+                  "options": [
+                    "To attract investors",
+                    "To hire employees",
+                    "To organize a party"
+                  ],
+                  "correct": "To attract investors"
+                },
+                {
+                  "question": "What is an asset?",
+                  "options": [
+                    "A liability",
+                    "A valuable resource owned by the company",
+                    "An expense"
+                  ],
+                  "correct": "A valuable resource owned by the company"
+                },
+                {
+                  "question": "What is the main function of the finance department?",
+                  "options": [
+                    "To create advertising campaigns",
+                    "To manage the company's money",
+                    "To sell products"
+                  ],
+                  "correct": "To manage the company's money"
+                },
+                {
+                  "question": "What does SWOT stand for?",
+                  "options": [
+                    "Strengths, Weaknesses, Opportunities, Threats",
+                    "Sales, Wages, Organization, Taxes",
+                    "Systems, Work, Output, Targets"
+                  ],
+                  "correct": "Strengths, Weaknesses, Opportunities, Threats"
+                },
+                {
+                  "question": "What is a merger?",
+                  "options": [
+                    "A meeting between managers",
+                    "A combination of two companies into one",
+                    "A new marketing strategy"
+                  ],
+                  "correct": "A combination of two companies into one"
+                },
+                {
+                  "question": "What is a stakeholder?",
+                  "options": [
+                    "Someone who owns shares in the company",
+                    "A person who works in the company",
+                    "Anyone affected by the company's actions"
+                  ],
+                  "correct": "Anyone affected by the company's actions"
+                },
+                {
+                  "question": "What is the purpose of market research?",
+                  "options": [
+                    "To study customer needs and preferences",
+                    "To find a new office location",
+                    "To manage employee performance"
+                  ],
+                  "correct": "To study customer needs and preferences"
+                },
+                {
+                  "question": "What is a supply chain?",
+                  "options": [
+                    "A series of steps to deliver a product to the customer",
+                    "A financial report",
+                    "A marketing strategy"
+                  ],
+                  "correct": "A series of steps to deliver a product to the customer"
+                },
+                {
+                  "question": "What is a brand?",
+                  "options": [
+                    "A company's identity and image",
+                    "A type of product",
+                    "A sales target"
+                  ],
+                  "correct": "A company's identity and image"
+                },
+                {
+                  "question": "What is the role of customer service?",
+                  "options": [
+                    "To answer customer inquiries and resolve issues",
+                    "To develop new products",
+                    "To create financial reports"
+                  ],
+                  "correct": "To answer customer inquiries and resolve issues"
+                }
+           ]
+
+      },
+
+      {
+          "level": "B1",
+          "questions": [
+              {
+                  "question": "What is the primary objective of a marketing strategy?",
+                  "options": [
+                    "To increase product prices",
+                    "To attract and retain customers",
+                    "To reduce production costs"
+                  ],
+                  "correct": "To attract and retain customers"
+                },
+                {
+                  "question": "What does CRM stand for?",
+                  "options": [
+                    "Customer Relationship Management",
+                    "Corporate Resource Management",
+                    "Critical Risk Management"
+                  ],
+                  "correct": "Customer Relationship Management"
+                },
+                {
+                  "question": "What is a liability in accounting?",
+                  "options": [
+                    "A company's asset",
+                    "A company's debt or obligation",
+                    "A company's revenue"
+                  ],
+                  "correct": "A company's debt or obligation"
+                },
+                {
+                  "question": "What is the function of the R&D department?",
+                  "options": [
+                    "To oversee financial transactions",
+                    "To develop new products and improve existing ones",
+                    "To manage human resources"
+                  ],
+                  "correct": "To develop new products and improve existing ones"
+                },
+                {
+                  "question": "What does a P&L statement show?",
+                  "options": [
+                    "Profits and liabilities",
+                    "Products and logistics",
+                    "Profits and losses"
+                  ],
+                  "correct": "Profits and losses"
+                }
+          ]
+      },
+
+      {
+          "level":"B2",
+          "questions":[
+              {
+                  "question": "What is the significance of a company's mission statement?",
+                  "options": [
+                    "To define the company's core purpose and focus",
+                    "To detail the financial performance",
+                    "To outline employee responsibilities"
+                  ],
+                  "correct": "To define the company's core purpose and focus"
+                },
+                {
+                  "question": "What is economies of scale?",
+                  "options": [
+                    "A reduction in costs per unit due to increased production",
+                    "An increase in prices due to higher demand",
+                    "A financial statement analysis technique"
+                  ],
+                  "correct": "A reduction in costs per unit due to increased production"
+                },
+                {
+                  "question": "What is a balance sheet?",
+                  "options": [
+                    "A statement of a company's financial position",
+                    "A list of employees and their salaries",
+                    "A document outlining marketing strategies"
+                  ],
+                  "correct": "A statement of a company's financial position"
+                },
+                {
+                  "question": "What does KPI stand for?",
+                  "options": [
+                    "Key Performance Indicator",
+                    "Knowledge Process Integration",
+                    "Key Product Information"
+                  ],
+                  "correct": "Key Performance Indicator"
+                },
+                {
+                  "question": "What is market segmentation?",
+                  "options": [
+                    "The process of dividing a market into distinct groups of buyers",
+                    "The merger of two companies",
+                    "The reduction of workforce in a company"
+                  ],
+                  "correct": "The process of dividing a market into distinct groups of buyers"
+                }
+          ]
+      },
+
+      {
+          "level": "C1",
+          "questions":[
+              {
+                  "question": "What is corporate governance?",
+                  "options": [
+                    "The system of rules, practices, and processes by which a company is directed and controlled",
+                    "The hiring process of a company",
+                    "The marketing strategies used by a company"
+                  ],
+                  "correct": "The system of rules, practices, and processes by which a company is directed and controlled"
+                },
+                {
+                  "question": "What is the purpose of a financial audit?",
+                  "options": [
+                    "To develop marketing strategies",
+                    "To verify the accuracy of a company's financial statements",
+                    "To train new employees"
+                  ],
+                  "correct": "To verify the accuracy of a company's financial statements"
+                },
+                {
+                  "question": "What is a competitive advantage?",
+                  "options": [
+                    "A benefit that allows a company to outperform its competitors",
+                    "A financial report showing profits",
+                    "A new product launch"
+                  ],
+                  "correct": "A benefit that allows a company to outperform its competitors"
+                },
+                {
+                  "question": "What is the purpose of strategic planning?",
+                  "options": [
+                    "To set long-term goals and determine the best approach to achieve them",
+                    "To hire new employees",
+                    "To manage day-to-day operations"
+                  ],
+                  "correct": "To set long-term goals and determine the best approach to achieve them"
+                },
+                {
+                  "question": "What is the role of a Chief Financial Officer (CFO)?",
+                  "options": [
+                    "To manage the company's finances",
+                    "To oversee the marketing department",
+                    "To handle customer service"
+                  ],
+                  "correct": "To manage the company's finances"
+                }
+          ]
+      },
+      {
+          "level":"C2",
+          "questions":[
+              {
+                  "question": "What is a hostile takeover?",
+                  "options": [
+                    "An acquisition in which the target company does not want to be acquired",
+                    "A friendly merger between two companies",
+                    "A partnership agreement"
+                  ],
+                  "correct": "An acquisition in which the target company does not want to be acquired"
+                },
+                {
+                  "question": "What is the principle of corporate social responsibility (CSR)?",
+                  "options": [
+                    "The idea that companies should be accountable for their impact on society and the environment",
+                    "The principle of maximizing shareholder value",
+                    "The strategy for reducing production costs"
+                  ],
+                  "correct": "The idea that companies should be accountable for their impact on society and the environment"
+                },
+                {
+                  "question": "What is a leveraged buyout (LBO)?",
+                  "options": [
+                    "The acquisition of a company using a significant amount of borrowed money",
+                    "A merger between two large corporations",
+                    "The issuance of new stock to raise capital"
+                  ],
+                  "correct": "The acquisition of a company using a significant amount of borrowed money"
+                },
+                {
+                  "question": "What is the purpose of risk management in a business?",
+                  "options": [
+                    "To identify, assess, and prioritize risks to minimize their impact",
+                    "To create new products",
+                    "To manage employee benefits"
+                  ],
+                  "correct": "To identify, assess, and prioritize risks to minimize their impact"
+                },
+                {
+                  "question": "What is a fiduciary duty?",
+                  "options": [
+                    "A legal obligation to act in the best interest of another party",
+                    "A marketing strategy",
+                    "A financial audit process"
+                  ],
+                  "correct": "A legal obligation to act in the best interest of another party"
+                }
+          ]
+      }         
+     
+    ]
   }
+
+
 ]

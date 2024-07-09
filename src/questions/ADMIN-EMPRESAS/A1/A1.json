@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the role of a manager in a company?",
+      "options": [
+        "To clean the office",
+        "To lead and organize the team",
+        "To design the company logo"
+      ],
+      "correct": "To lead and organize the team"
+    },
+    {
+      "question": "Which department is responsible for hiring new employees?",
+      "options": [
+        "Marketing",
+        "Human Resources",
+        "Sales"
+      ],
+      "correct": "Human Resources"
+    },
+    {
+      "question": "What is a budget?",
+      "options": [
+        "A plan for spending money",
+        "A type of computer software",
+        "A meeting with clients"
+      ],
+      "correct": "A plan for spending money"
+    },
+    {
+      "question": "What is a common tool used for presentations in a business meeting?",
+      "options": [
+        "A calculator",
+        "A projector",
+        "A stapler"
+      ],
+      "correct": "A projector"
+    },
+    {
+      "question": "What is an invoice?",
+      "options": [
+        "A request for payment",
+        "A company policy",
+        "A job application"
+      ],
+      "correct": "A request for payment"
+    },
+    {
+      "question": "Who is the CEO?",
+      "options": [
+        "The Chief Executive Officer",
+        "The office cleaner",
+        "The person in charge of sales"
+      ],
+      "correct": "The Chief Executive Officer"
+    },
+    {
+      "question": "What is a 'deadline'?",
+      "options": [
+        "The end date for a project",
+        "The name of a new product",
+        "A type of office furniture"
+      ],
+      "correct": "The end date for a project"
+    },
+    {
+      "question": "Which department handles advertising and promotions?",
+      "options": [
+        "Finance",
+        "Marketing",
+        "IT"
+      ],
+      "correct": "Marketing"
+    },
+    {
+      "question": "What does 'profit' mean in business?",
+      "options": [
+        "The total amount of sales",
+        "The money made after all expenses",
+        "The cost of production"
+      ],
+      "correct": "The money made after all expenses"
+    },
+    {
+      "question": "What is a 'meeting'?",
+      "options": [
+        "A place to park cars",
+        "A gathering of people to discuss something",
+        "A document to sign"
+      ],
+      "correct": "A gathering of people to discuss something"
+    }
+  ]
+  

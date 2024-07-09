@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What is a hostile takeover?",
+      "options": [
+        "An acquisition in which the target company does not want to be acquired",
+        "A friendly merger between two companies",
+        "A partnership agreement"
+      ],
+      "correct": "An acquisition in which the target company does not want to be acquired"
+    },
+    {
+      "question": "What is the principle of corporate social responsibility (CSR)?",
+      "options": [
+        "The idea that companies should be accountable for their impact on society and the environment",
+        "The principle of maximizing shareholder value",
+        "The strategy for reducing production costs"
+      ],
+      "correct": "The idea that companies should be accountable for their impact on society and the environment"
+    },
+    {
+      "question": "What is a leveraged buyout (LBO)?",
+      "options": [
+        "The acquisition of a company using a significant amount of borrowed money",
+        "A merger between two large corporations",
+        "The issuance of new stock to raise capital"
+      ],
+      "correct": "The acquisition of a company using a significant amount of borrowed money"
+    },
+    {
+      "question": "What is the purpose of risk management in a business?",
+      "options": [
+        "To identify, assess, and prioritize risks to minimize their impact",
+        "To create new products",
+        "To manage employee benefits"
+      ],
+      "correct": "To identify, assess, and prioritize risks to minimize their impact"
+    },
+    {
+      "question": "What is a fiduciary duty?",
+      "options": [
+        "A legal obligation to act in the best interest of another party",
+        "A marketing strategy",
+        "A financial audit process"
+      ],
+      "correct": "A legal obligation to act in the best interest of another party"
+    }
+  ]
+  
