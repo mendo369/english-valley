@@ -9,10 +9,10 @@ const { level } = storeToRefs(questionsStore());
 
 const { getQuestions } = questionsStore();
 
-getQuestions("TEC-ELECTRONICA", "A1");
+getQuestions("TECNO-ELECTRONICA", "A1");
 
 const changeLevel = (level) => {
-  getQuestions("TEC-ELECTRONICA", level);
+  getQuestions("TECNO-ELECTRONICA", level);
 };
 </script>
 

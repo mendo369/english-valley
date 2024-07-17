@@ -7,9 +7,9 @@
       <div class="description">
         <p>
           ¡Hey, hola! 👋 Bienvenido a English Valley, una app para repasar
-          inglés con varias preguntas de tu programa académico, bien sea que tu
-          nivel sea A1 o C2, aquí puedes repasar un rato. <br />
-          También puedes ayudar a crecer la aplicación con más preguntas 💪🔥
+          inglés con varios temas de tu programa académico, No importa tu
+          nivel, A1 o C2, aquí puedes repasar un rato. <br />
+          También puedes ayudar a crecer la aplicación incluyendo tus propios temas 💪🔥
         </p>
       </div>
     </div>
