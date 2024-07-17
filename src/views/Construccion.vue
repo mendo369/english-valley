@@ -17,7 +17,7 @@ const changeLevel = (level) => {
 </script>
 
 <template>
-  <section class="construccion">
+  <section class="ing-sistemas">
     <div class="levels">
       <ul>
         <li
@@ -84,7 +84,7 @@ const changeLevel = (level) => {
 </template>
 
 <style scoped>
-.construccion {
+.ing-sistemas {
   display: grid;
   grid-template-rows: 10% 1fr;
   gap: 2em;
