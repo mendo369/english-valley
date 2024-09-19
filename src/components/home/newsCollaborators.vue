@@ -4,9 +4,9 @@
   <section class="news-collaborators">
     <div class="title">
       <h1>
-        Si quieres ayudar a que la aplicación crezca, puedes ayudar enviando
-        preguntas nuevas de cualquier porgrama académico y de cualquier nivel de
-        inglés 👩‍🚀👨‍🚀🚀
+        Si quieres que la aplicación crezca, puedes ayudar enviando
+        nuevas preguntas de cualquier programa académico y de cualquier nivel de
+        inglés. 👩‍🚀👨‍🚀🚀
       </h1>
     </div>
     <div class="networks">
