@@ -17,7 +17,7 @@ const changeLevel = (level) => {
 </script>
 
 <template>
-  <section class="ing-sistemas">
+  <section class="contaduria">
     <div class="levels">
       <ul>
         <li

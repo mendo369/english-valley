@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What is corporate governance?",
+      "options": [
+        "The system of rules, practices, and processes by which a company is directed and controlled",
+        "The hiring process of a company",
+        "The marketing strategies used by a company"
+      ],
+      "correct": "The system of rules, practices, and processes by which a company is directed and controlled"
+    },
+    {
+      "question": "What is the purpose of a financial audit?",
+      "options": [
+        "To develop marketing strategies",
+        "To verify the accuracy of a company's financial statements",
+        "To train new employees"
+      ],
+      "correct": "To verify the accuracy of a company's financial statements"
+    },
+    {
+      "question": "What is a competitive advantage?",
+      "options": [
+        "A benefit that allows a company to outperform its competitors",
+        "A financial report showing profits",
+        "A new product launch"
+      ],
+      "correct": "A benefit that allows a company to outperform its competitors"
+    },
+    {
+      "question": "What is the purpose of strategic planning?",
+      "options": [
+        "To set long-term goals and determine the best approach to achieve them",
+        "To hire new employees",
+        "To manage day-to-day operations"
+      ],
+      "correct": "To set long-term goals and determine the best approach to achieve them"
+    },
+    {
+      "question": "What is the role of a Chief Financial Officer (CFO)?",
+      "options": [
+        "To manage the company's finances",
+        "To oversee the marketing department",
+        "To handle customer service"
+      ],
+      "correct": "To manage the company's finances"
+    }
+  ]
+  

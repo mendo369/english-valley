@@ -545,5 +545,2907 @@
         ]
       }
     ]
+  },
+
+  {
+    "program": "ADMIN-EMPRESAS",
+    "levels": [
+               
+      {
+          "level": "A1",
+         "questions": [
+        {
+          "question": "What is the role of a manager in a company?",
+          "options": [
+          "To clean the office",
+          "To lead and organize the team",
+          "To design the company logo"
+          ],
+          "correct": "To lead and organize the team"
+        },
+        {
+          "question": "Which department is responsible for hiring new employees?",
+          "options": [
+              "Marketing",
+              "Human Resources",
+              "Sales"
+          ],
+          "correct": "Human Resources"
+        },
+
+        {
+          "question": "What is a budget?",
+          "options": [
+              "A plan for spending money",
+              "A type of computer software",
+              "A meeting with clients"
+          ],
+          "correct": "A plan for spending money"
+        },
+
+        {
+          "question": "What is a common tool used for presentations in a business meeting?",
+          "options": [
+              "A calculator",
+              "A projector",
+              "A stapler"
+          ],
+          "correct": "A projector"
+        },
+
+        {
+          "question": "What is an invoice?",
+          "options": [
+            "A request for payment",
+            "A company policy",
+            "A job application"
+          ],
+          "correct": "A request for payment"
+        },
+
+        {
+          "question": "Who is the CEO?",
+          "options": [
+            "The Chief Executive Officer",
+            "The office cleaner",
+            "The person in charge of sales"
+          ],
+          "correct": "The Chief Executive Officer"
+        },
+        {
+          "question": "What is a 'deadline'?",
+          "options": [
+            "The end date for a project",
+            "The name of a new product",
+            "A type of office furniture"
+          ],
+          "correct": "The end date for a project"
+        },
+        {
+          "question": "Which department handles advertising and promotions?",
+          "options": [
+            "Finance",
+            "Marketing",
+            "IT"
+          ],
+          "correct": "Marketing"
+        },
+        {
+          "question": "What does 'profit' mean in business?",
+          "options": [
+            "The total amount of sales",
+            "The money made after all expenses",
+            "The cost of production"
+          ],
+          "correct": "The money made after all expenses"
+        },
+        {
+          "question": "What is a 'meeting'?",
+          "options": [
+            "A place to park cars",
+            "A gathering of people to discuss something",
+            "A document to sign"
+          ],
+          "correct": "A gathering of people to discuss something"
+        }
+      ]
+      },
+
+      {
+          "level": "A2",
+           "questions": [
+              {
+                  "question": "What is the purpose of a business plan?",
+                  "options": [
+                    "To attract investors",
+                    "To hire employees",
+                    "To organize a party"
+                  ],
+                  "correct": "To attract investors"
+                },
+                {
+                  "question": "What is an asset?",
+                  "options": [
+                    "A liability",
+                    "A valuable resource owned by the company",
+                    "An expense"
+                  ],
+                  "correct": "A valuable resource owned by the company"
+                },
+                {
+                  "question": "What is the main function of the finance department?",
+                  "options": [
+                    "To create advertising campaigns",
+                    "To manage the company's money",
+                    "To sell products"
+                  ],
+                  "correct": "To manage the company's money"
+                },
+                {
+                  "question": "What does SWOT stand for?",
+                  "options": [
+                    "Strengths, Weaknesses, Opportunities, Threats",
+                    "Sales, Wages, Organization, Taxes",
+                    "Systems, Work, Output, Targets"
+                  ],
+                  "correct": "Strengths, Weaknesses, Opportunities, Threats"
+                },
+                {
+                  "question": "What is a merger?",
+                  "options": [
+                    "A meeting between managers",
+                    "A combination of two companies into one",
+                    "A new marketing strategy"
+                  ],
+                  "correct": "A combination of two companies into one"
+                },
+                {
+                  "question": "What is a stakeholder?",
+                  "options": [
+                    "Someone who owns shares in the company",
+                    "A person who works in the company",
+                    "Anyone affected by the company's actions"
+                  ],
+                  "correct": "Anyone affected by the company's actions"
+                },
+                {
+                  "question": "What is the purpose of market research?",
+                  "options": [
+                    "To study customer needs and preferences",
+                    "To find a new office location",
+                    "To manage employee performance"
+                  ],
+                  "correct": "To study customer needs and preferences"
+                },
+                {
+                  "question": "What is a supply chain?",
+                  "options": [
+                    "A series of steps to deliver a product to the customer",
+                    "A financial report",
+                    "A marketing strategy"
+                  ],
+                  "correct": "A series of steps to deliver a product to the customer"
+                },
+                {
+                  "question": "What is a brand?",
+                  "options": [
+                    "A company's identity and image",
+                    "A type of product",
+                    "A sales target"
+                  ],
+                  "correct": "A company's identity and image"
+                },
+                {
+                  "question": "What is the role of customer service?",
+                  "options": [
+                    "To answer customer inquiries and resolve issues",
+                    "To develop new products",
+                    "To create financial reports"
+                  ],
+                  "correct": "To answer customer inquiries and resolve issues"
+                }
+           ]
+
+      },
+
+      {
+          "level": "B1",
+          "questions": [
+              {
+                  "question": "What is the primary objective of a marketing strategy?",
+                  "options": [
+                    "To increase product prices",
+                    "To attract and retain customers",
+                    "To reduce production costs"
+                  ],
+                  "correct": "To attract and retain customers"
+                },
+                {
+                  "question": "What does CRM stand for?",
+                  "options": [
+                    "Customer Relationship Management",
+                    "Corporate Resource Management",
+                    "Critical Risk Management"
+                  ],
+                  "correct": "Customer Relationship Management"
+                },
+                {
+                  "question": "What is a liability in accounting?",
+                  "options": [
+                    "A company's asset",
+                    "A company's debt or obligation",
+                    "A company's revenue"
+                  ],
+                  "correct": "A company's debt or obligation"
+                },
+                {
+                  "question": "What is the function of the R&D department?",
+                  "options": [
+                    "To oversee financial transactions",
+                    "To develop new products and improve existing ones",
+                    "To manage human resources"
+                  ],
+                  "correct": "To develop new products and improve existing ones"
+                },
+                {
+                  "question": "What does a P&L statement show?",
+                  "options": [
+                    "Profits and liabilities",
+                    "Products and logistics",
+                    "Profits and losses"
+                  ],
+                  "correct": "Profits and losses"
+                }
+          ]
+      },
+
+      {
+          "level":"B2",
+          "questions":[
+              {
+                  "question": "What is the significance of a company's mission statement?",
+                  "options": [
+                    "To define the company's core purpose and focus",
+                    "To detail the financial performance",
+                    "To outline employee responsibilities"
+                  ],
+                  "correct": "To define the company's core purpose and focus"
+                },
+                {
+                  "question": "What is economies of scale?",
+                  "options": [
+                    "A reduction in costs per unit due to increased production",
+                    "An increase in prices due to higher demand",
+                    "A financial statement analysis technique"
+                  ],
+                  "correct": "A reduction in costs per unit due to increased production"
+                },
+                {
+                  "question": "What is a balance sheet?",
+                  "options": [
+                    "A statement of a company's financial position",
+                    "A list of employees and their salaries",
+                    "A document outlining marketing strategies"
+                  ],
+                  "correct": "A statement of a company's financial position"
+                },
+                {
+                  "question": "What does KPI stand for?",
+                  "options": [
+                    "Key Performance Indicator",
+                    "Knowledge Process Integration",
+                    "Key Product Information"
+                  ],
+                  "correct": "Key Performance Indicator"
+                },
+                {
+                  "question": "What is market segmentation?",
+                  "options": [
+                    "The process of dividing a market into distinct groups of buyers",
+                    "The merger of two companies",
+                    "The reduction of workforce in a company"
+                  ],
+                  "correct": "The process of dividing a market into distinct groups of buyers"
+                }
+          ]
+      },
+
+      {
+          "level": "C1",
+          "questions":[
+              {
+                  "question": "What is corporate governance?",
+                  "options": [
+                    "The system of rules, practices, and processes by which a company is directed and controlled",
+                    "The hiring process of a company",
+                    "The marketing strategies used by a company"
+                  ],
+                  "correct": "The system of rules, practices, and processes by which a company is directed and controlled"
+                },
+                {
+                  "question": "What is the purpose of a financial audit?",
+                  "options": [
+                    "To develop marketing strategies",
+                    "To verify the accuracy of a company's financial statements",
+                    "To train new employees"
+                  ],
+                  "correct": "To verify the accuracy of a company's financial statements"
+                },
+                {
+                  "question": "What is a competitive advantage?",
+                  "options": [
+                    "A benefit that allows a company to outperform its competitors",
+                    "A financial report showing profits",
+                    "A new product launch"
+                  ],
+                  "correct": "A benefit that allows a company to outperform its competitors"
+                },
+                {
+                  "question": "What is the purpose of strategic planning?",
+                  "options": [
+                    "To set long-term goals and determine the best approach to achieve them",
+                    "To hire new employees",
+                    "To manage day-to-day operations"
+                  ],
+                  "correct": "To set long-term goals and determine the best approach to achieve them"
+                },
+                {
+                  "question": "What is the role of a Chief Financial Officer (CFO)?",
+                  "options": [
+                    "To manage the company's finances",
+                    "To oversee the marketing department",
+                    "To handle customer service"
+                  ],
+                  "correct": "To manage the company's finances"
+                }
+          ]
+      },
+      {
+          "level":"C2",
+          "questions":[
+              {
+                  "question": "What is a hostile takeover?",
+                  "options": [
+                    "An acquisition in which the target company does not want to be acquired",
+                    "A friendly merger between two companies",
+                    "A partnership agreement"
+                  ],
+                  "correct": "An acquisition in which the target company does not want to be acquired"
+                },
+                {
+                  "question": "What is the principle of corporate social responsibility (CSR)?",
+                  "options": [
+                    "The idea that companies should be accountable for their impact on society and the environment",
+                    "The principle of maximizing shareholder value",
+                    "The strategy for reducing production costs"
+                  ],
+                  "correct": "The idea that companies should be accountable for their impact on society and the environment"
+                },
+                {
+                  "question": "What is a leveraged buyout (LBO)?",
+                  "options": [
+                    "The acquisition of a company using a significant amount of borrowed money",
+                    "A merger between two large corporations",
+                    "The issuance of new stock to raise capital"
+                  ],
+                  "correct": "The acquisition of a company using a significant amount of borrowed money"
+                },
+                {
+                  "question": "What is the purpose of risk management in a business?",
+                  "options": [
+                    "To identify, assess, and prioritize risks to minimize their impact",
+                    "To create new products",
+                    "To manage employee benefits"
+                  ],
+                  "correct": "To identify, assess, and prioritize risks to minimize their impact"
+                },
+                {
+                  "question": "What is a fiduciary duty?",
+                  "options": [
+                    "A legal obligation to act in the best interest of another party",
+                    "A marketing strategy",
+                    "A financial audit process"
+                  ],
+                  "correct": "A legal obligation to act in the best interest of another party"
+                }
+          ]
+      }         
+     
+    ]
+  },
+  
+  {
+    "program": "CONSTRUCCION",
+    "levels": [       
+      {
+        "level": "A1",
+        "questions":[
+          {
+            "question": "What is a hammer used for?",
+            "options": [
+              "Cutting wood",
+              "Driving nails into wood",
+              "Measuring distances"
+            ],
+            "correct": "Driving nails into wood"
+          },
+          {
+            "question": "What is a brick?",
+            "options": [
+              "A tool for measuring",
+              "A building material",
+              "A type of paint"
+            ],
+            "correct": "A building material"
+          },
+          {
+            "question": "What does a construction worker wear for safety?",
+            "options": [
+              "A helmet",
+              "A tie",
+              "A scarf"
+            ],
+            "correct": "A helmet"
+          },
+          {
+            "question": "What is cement?",
+            "options": [
+              "A type of metal",
+              "A binder used in construction",
+              "A measuring tool"
+            ],
+            "correct": "A binder used in construction"
+          },
+          {
+            "question": "What is a saw used for?",
+            "options": [
+              "Cutting materials like wood",
+              "Mixing cement",
+              "Painting walls"
+            ],
+            "correct": "Cutting materials like wood"
+          }        
+
+        ]     
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is the purpose of scaffolding?",
+            "options": [
+              "To support a structure permanently",
+              "To provide a temporary platform for workers",
+              "To decorate a building"
+            ],
+            "correct": "To provide a temporary platform for workers"
+          },
+          {
+            "question": "What does an architect do?",
+            "options": [
+              "Designs buildings",
+              "Builds walls",
+              "Installs plumbing"
+            ],
+            "correct": "Designs buildings"
+          },
+          {
+            "question": "What is concrete made of?",
+            "options": [
+              "Sand, water, and cement",
+              "Wood, nails, and screws",
+              "Glass, paint, and metal"
+            ],
+            "correct": "Sand, water, and cement"
+          },
+          {
+            "question": "What is a blueprint?",
+            "options": [
+              "A type of construction material",
+              "A detailed plan of a building",
+              "A construction tool"
+            ],
+            "correct": "A detailed plan of a building"
+          },
+          {
+            "question": "What is the role of a surveyor?",
+            "options": [
+              "To manage the construction site",
+              "To measure and map land",
+              "To install electrical systems"
+            ],
+            "correct": "To measure and map land"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is the function of insulation in a building?",
+            "options": [
+              "To support the structure",
+              "To keep the building warm in winter and cool in summer",
+              "To decorate the interior"
+            ],
+            "correct": "To keep the building warm in winter and cool in summer"
+          },
+          {
+            "question": "What is a load-bearing wall?",
+            "options": [
+              "A wall that does not support any weight",
+              "A wall that supports the weight of the building",
+              "A decorative wall"
+            ],
+            "correct": "A wall that supports the weight of the building"
+          },
+          {
+            "question": "What is the purpose of a foundation in construction?",
+            "options": [
+              "To provide a base for the structure",
+              "To create the roof of a building",
+              "To paint the walls"
+            ],
+            "correct": "To provide a base for the structure"
+          },
+          {
+            "question": "What is the role of a project manager in construction?",
+            "options": [
+              "To lay bricks",
+              "To oversee and coordinate the construction project",
+              "To install plumbing"
+            ],
+            "correct": "To oversee and coordinate the construction project"
+          },
+          {
+            "question": "What is drywall used for?",
+            "options": [
+              "To create interior walls and ceilings",
+              "To insulate the building",
+              "To install electrical wiring"
+            ],
+            "correct": "To create interior walls and ceilings"
+          }
+        ]
+      },
+      
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is sustainable construction?",
+            "options": [
+              "Construction that uses the cheapest materials",
+              "Construction that minimizes environmental impact",
+              "Construction that takes the longest time"
+            ],
+            "correct": "Construction that minimizes environmental impact"
+          },
+          {
+            "question": "What is the role of a structural engineer?",
+            "options": [
+              "To design the electrical systems",
+              "To ensure the building structure is safe and stable",
+              "To manage the construction budget"
+            ],
+            "correct": "To ensure the building structure is safe and stable"
+          },
+          {
+            "question": "What is a building code?",
+            "options": [
+              "A decorative style for buildings",
+              "A set of regulations for building construction",
+              "A tool used in construction"
+            ],
+            "correct": "A set of regulations for building construction"
+          },
+          {
+            "question": "What is prefabrication in construction?",
+            "options": [
+              "Building parts of the structure off-site and then assembling them on-site",
+              "Painting the exterior of a building",
+              "Installing windows"
+            ],
+            "correct": "Building parts of the structure off-site and then assembling them on-site"
+          },
+          {
+            "question": "What is the purpose of a building permit?",
+            "options": [
+              "To approve the use of construction materials",
+              "To authorize the construction of a new building or renovation",
+              "To hire construction workers"
+            ],
+            "correct": "To authorize the construction of a new building or renovation"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is the concept of 'green building'?",
+            "options": [
+              "Using green paint for all buildings",
+              "Designing and constructing buildings that are environmentally responsible and resource-efficient",
+              "Building in green zones only"
+            ],
+            "correct": "Designing and constructing buildings that are environmentally responsible and resource-efficient"
+          },
+          {
+            "question": "What is a LEED certification?",
+            "options": [
+              "A license for electricians",
+              "A certification for environmentally friendly buildings",
+              "A type of construction material"
+            ],
+            "correct": "A certification for environmentally friendly buildings"
+          },
+          {
+            "question": "What is the significance of a Gantt chart in project management?",
+            "options": [
+              "It is a type of construction material",
+              "It is a visual timeline for project tasks and milestones",
+              "It is a safety guideline"
+            ],
+            "correct": "It is a visual timeline for project tasks and milestones"
+          },
+          {
+            "question": "What is Building Information Modeling (BIM)?",
+            "options": [
+              "A method of creating digital representations of physical and functional characteristics of places",
+              "A type of construction material",
+              "A financial report"
+            ],
+            "correct": "A method of creating digital representations of physical and functional characteristics of places"
+          },
+          {
+            "question": "What is the role of an environmental engineer in construction?",
+            "options": [
+              "To design the electrical systems",
+              "To ensure construction activities comply with environmental regulations",
+              "To manage the construction budget"
+            ],
+            "correct": "To ensure construction activities comply with environmental regulations"
+          }
+        ]
+      },
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is a turnkey project in construction?",
+            "options": [
+              "A project that is completed so that it can be sold to any buyer as a finished product",
+              "A project that is abandoned halfway through",
+              "A project that only involves renovations"
+            ],
+            "correct": "A project that is completed so that it can be sold to any buyer as a finished product"
+          },
+          {
+            "question": "What is the principle of 'value engineering' in construction?",
+            "options": [
+              "To increase the project's cost as much as possible",
+              "To improve the value of a project by finding the most cost-effective ways to achieve its functions",
+              "To ensure the project uses the most expensive materials"
+            ],
+            "correct": "To improve the value of a project by finding the most cost-effective ways to achieve its functions"
+          },
+          {
+            "question": "What is a 'retention' in construction contracts?",
+            "options": [
+              "The practice of keeping a percentage of the contract sum until the project is completed satisfactorily",
+              "The total project cost",
+              "A penalty for late completion"
+            ],
+            "correct": "The practice of keeping a percentage of the contract sum until the project is completed satisfactorily"
+          },
+          {
+            "question": "What is the role of a quantity surveyor?",
+            "options": [
+              "To design the building structure",
+              "To manage all costs related to building and civil engineering projects",
+              "To oversee the marketing department"
+            ],
+            "correct": "To manage all costs related to building and civil engineering"
+          }   
+          ]
+      }
+    ]
+  },
+
+  {
+    "program" : "CONTADURIA",
+    "levels":[
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is money?",
+            "options": [
+              "A type of food",
+              "A medium of exchange",
+              "A piece of art"
+            ],
+            "correct": "A medium of exchange"
+          },
+          {
+            "question": "What is a receipt?",
+            "options": [
+              "A proof of payment",
+              "A cooking recipe",
+              "A type of currency"
+            ],
+            "correct": "A proof of payment"
+          },
+          {
+            "question": "What does a cashier do?",
+            "options": [
+              "Builds houses",
+              "Sells products and handles money",
+              "Drives a bus"
+            ],
+            "correct": "Sells products and handles money"
+          },
+          {
+            "question": "What is a bank?",
+            "options": [
+              "A place where people save and borrow money",
+              "A type of sport",
+              "A kitchen appliance"
+            ],
+            "correct": "A place where people save and borrow money"
+          },
+          {
+            "question": "What is a bill?",
+            "options": [
+              "A type of bird",
+              "A request for payment",
+              "A tool for gardening"
+            ],
+            "correct": "A request for payment"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a budget?",
+            "options": [
+              "A type of clothing",
+              "A plan for saving and spending money",
+              "A sport activity"
+            ],
+            "correct": "A plan for saving and spending money"
+          },
+          {
+            "question": "What does an accountant do?",
+            "options": [
+              "Teaches students",
+              "Prepares financial records",
+              "Cooks food"
+            ],
+            "correct": "Prepares financial records"
+          },
+          {
+            "question": "What is income?",
+            "options": [
+              "Money received from work or investments",
+              "Money spent on bills",
+              "Money borrowed from a friend"
+            ],
+            "correct": "Money received from work or investments"
+          },
+          {
+            "question": "What is an expense?",
+            "options": [
+              "Money saved in a bank",
+              "Money spent on goods and services",
+              "Money found on the street"
+            ],
+            "correct": "Money spent on goods and services"
+          },
+          {
+            "question": "What is a tax?",
+            "options": [
+              "A type of fruit",
+              "A required payment to the government",
+              "A kind of dance"
+            ],
+            "correct": "A required payment to the government"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is a financial statement?",
+            "options": [
+              "A document showing the financial activities of a business",
+              "A list of favorite books",
+              "A calendar of events"
+            ],
+            "correct": "A document showing the financial activities of a business"
+          },
+          {
+            "question": "What is a liability?",
+            "options": [
+              "An asset owned by a company",
+              "A company's financial debt or obligations",
+              "A type of insurance"
+            ],
+            "correct": "A company's financial debt or obligations"
+          },
+          {
+            "question": "What is equity?",
+            "options": [
+              "The total assets of a company",
+              "The value of ownership interest in the company",
+              "The company's net profit"
+            ],
+            "correct": "The value of ownership interest in the company"
+          },
+          {
+            "question": "What is an audit?",
+            "options": [
+              "A financial examination of an organization's accounts",
+              "A meeting between colleagues",
+              "A sales pitch to customers"
+            ],
+            "correct": "A financial examination of an organization's accounts"
+          },
+          {
+            "question": "What is a balance sheet?",
+            "options": [
+              "A document that reports a company's assets, liabilities, and equity",
+              "A list of all employees",
+              "A schedule of company meetings"
+            ],
+            "correct": "A document that reports a company's assets, liabilities, and equity"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is cash flow?",
+            "options": [
+              "The total income of a company",
+              "The net amount of cash being transferred in and out of a business",
+              "The amount of cash in the company's safe"
+            ],
+            "correct": "The net amount of cash being transferred in and out of a business"
+          },
+          {
+            "question": "What is a ledger?",
+            "options": [
+              "A book or other collection of financial accounts",
+              "A type of office furniture",
+              "A software for email management"
+            ],
+            "correct": "A book or other collection of financial accounts"
+          },
+          {
+            "question": "What is a profit and loss statement?",
+            "options": [
+              "A summary of the company's revenues, costs, and expenses during a specific period",
+              "A document listing all the employees",
+              "A report on customer satisfaction"
+            ],
+            "correct": "A summary of the company's revenues, costs, and expenses during a specific period"
+          },
+          {
+            "question": "What is depreciation?",
+            "options": [
+              "The increase in value of an asset over time",
+              "The reduction in value of an asset over time",
+              "The amount of money spent on marketing"
+            ],
+            "correct": "The reduction in value of an asset over time"
+          },
+          {
+            "question": "What is a fiscal year?",
+            "options": [
+              "A period used for calculating annual financial statements",
+              "A calendar year",
+              "A special event in the company"
+            ],
+            "correct": "A period used for calculating annual financial statements"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is double-entry bookkeeping?",
+            "options": [
+              "A system where each transaction affects two accounts",
+              "A method of budgeting",
+              "A way to manage inventory"
+            ],
+            "correct": "A system where each transaction affects two accounts"
+          },
+          {
+            "question": "What is an accrual?",
+            "options": [
+              "A transaction recorded when it occurs, regardless of when cash is exchanged",
+              "A type of bank account",
+              "A financial bonus"
+            ],
+            "correct": "A transaction recorded when it occurs, regardless of when cash is exchanged"
+          },
+          {
+            "question": "What is goodwill in accounting?",
+            "options": [
+              "An intangible asset that arises when a buyer acquires an existing business",
+              "The amount of money a company makes",
+              "The salary of the CEO"
+            ],
+            "correct": "An intangible asset that arises when a buyer acquires an existing business"
+          },
+          {
+            "question": "What is the purpose of an internal audit?",
+            "options": [
+              "To ensure the accuracy and integrity of financial records",
+              "To advertise the company",
+              "To hire new employees"
+            ],
+            "correct": "To ensure the accuracy and integrity of financial records"
+          },
+          {
+            "question": "What is the difference between accounts payable and accounts receivable?",
+            "options": [
+              "Accounts payable are debts a company owes, accounts receivable are amounts a company is owed",
+              "Accounts payable are company assets, accounts receivable are company liabilities",
+              "Accounts payable are monthly expenses, accounts receivable are yearly revenues"
+            ],
+            "correct": "Accounts payable are debts a company owes, accounts receivable are amounts a company is owed"
+          }
+        ]
+      },
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the principle of conservatism in accounting?",
+            "options": [
+              "Revenues are recognized only when they are reasonably certain, and expenses are recognized as soon as they are reasonably possible",
+              "Revenues and expenses are recorded at historical cost",
+              "All financial statements must be audited"
+            ],
+            "correct": "Revenues are recognized only when they are reasonably certain, and expenses are recognized as soon as they are reasonably possible"
+          },
+          {
+            "question": "What is a contingent liability?",
+            "options": [
+              "A potential liability that may occur depending on the outcome of a future event",
+              "A type of asset",
+              "A financial asset"
+            ],
+            "correct": "A potential liability that may occur depending on the outcome of a future event"
+          },
+          {
+            "question": "What is the purpose of an internal audit?",
+            "options": [
+              "To evaluate and improve the effectiveness of risk management, control, and governance processes",
+              "To prepare financial statements",
+              "To manage company payroll"
+            ],
+            "correct": "To evaluate and improve the effectiveness of risk management, control, and governance processes"
+          },
+          {
+            "question": "What is the concept of transfer pricing?",
+            "options": [
+              "Setting prices for transactions between related entities within the same organization",
+              "A method of budgeting",
+              "A type of financial report"
+            ],
+            "correct": "Setting prices for transactions between related entities within the same organization"
+          },
+          {
+            "question": "What is the significance of International Financial Reporting Standards (IFRS)?",
+            "options": [
+              "They provide a global framework for how public companies prepare and disclose their financial statements",
+              "They are used to set national accounting standards",
+              "They provide tax guidelines for companies"
+            ],
+            "correct": "They provide a global framework for how public companies prepare and disclose their financial statements"
+          }
+        ]
+      }    
+    ] 
+
+  },
+
+  {
+    "program":"DESARROLLO DE SOFTWARE",
+     "levels":[
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is a computer?",
+            "options": [
+              "A device that can store and process information",
+              "A type of software",
+              "A programming language"
+            ],
+            "correct": "A device that can store and process information"
+          },
+          {
+            "question": "What is software?",
+            "options": [
+              "Physical parts of a computer",
+              "Programs and applications used by a computer",
+              "A type of hardware"
+            ],
+            "correct": "Programs and applications used by a computer"
+          },
+          {
+            "question": "What is a keyboard used for?",
+            "options": [
+              "Typing and entering data",
+              "Displaying images",
+              "Playing sound"
+            ],
+            "correct": "Typing and entering data"
+          },
+          {
+            "question": "What is a mouse?",
+            "options": [
+              "A pointing device used to interact with a computer",
+              "A storage device",
+              "A type of software"
+            ],
+            "correct": "A pointing device used to interact with a computer"
+          },
+          {
+            "question": "What is the internet?",
+            "options": [
+              "A global network of computers",
+              "A type of software",
+              "A programming language"
+            ],
+            "correct": "A global network of computers"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a web browser?",
+            "options": [
+              "A program used to access the internet",
+              "A type of hardware",
+              "A programming language"
+            ],
+            "correct": "A program used to access the internet"
+          },
+          {
+            "question": "What is an email?",
+            "options": [
+              "A method of sending messages electronically",
+              "A type of software",
+              "A storage device"
+            ],
+            "correct": "A method of sending messages electronically"
+          },
+          {
+            "question": "What is a password?",
+            "options": [
+              "A secret word or phrase used for authentication",
+              "A type of software",
+              "A programming language"
+            ],
+            "correct": "A secret word or phrase used for authentication"
+          },
+          {
+            "question": "What is a smartphone?",
+            "options": [
+              "A mobile device that combines a phone and a computer",
+              "A type of software",
+              "A storage device"
+            ],
+            "correct": "A mobile device that combines a phone and a computer"
+          },
+          {
+            "question": "What is an app?",
+            "options": [
+              "A software application designed for mobile devices",
+              "A type of hardware",
+              "A programming language"
+            ],
+            "correct": "A software application designed for mobile devices"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is programming?",
+            "options": [
+              "Writing instructions for a computer to follow",
+              "A type of hardware",
+              "A method of storing data"
+            ],
+            "correct": "Writing instructions for a computer to follow"
+          },
+          {
+            "question": "What is an algorithm?",
+            "options": [
+              "A step-by-step procedure for solving a problem",
+              "A type of software",
+              "A programming language"
+            ],
+            "correct": "A step-by-step procedure for solving a problem"
+          },
+          {
+            "question": "What is a bug in software development?",
+            "options": [
+              "An error or flaw in a computer program",
+              "A type of hardware",
+              "A programming language"
+            ],
+            "correct": "An error or flaw in a computer program"
+          },
+          {
+            "question": "What is debugging?",
+            "options": [
+              "Finding and fixing errors in a computer program",
+              "Writing new code",
+              "Designing a user interface"
+            ],
+            "correct": "Finding and fixing errors in a computer program"
+          },
+          {
+            "question": "What is a database?",
+            "options": [
+              "A structured collection of data",
+              "A type of software",
+              "A programming language"
+            ],
+            "correct": "A structured collection of data"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is an API?",
+            "options": [
+              "A set of rules for building software applications",
+              "A type of hardware",
+              "A programming language"
+            ],
+            "correct": "A set of rules for building software applications"
+          },
+          {
+            "question": "What is object-oriented programming?",
+            "options": [
+              "A programming paradigm based on objects and data",
+              "A method of writing machine code",
+              "A type of hardware"
+            ],
+            "correct": "A programming paradigm based on objects and data"
+          },
+          {
+            "question": "What is a framework in software development?",
+            "options": [
+              "A platform for developing software applications",
+              "A type of software bug",
+              "A programming language"
+            ],
+            "correct": "A platform for developing software applications"
+          },
+          {
+            "question": "What is version control?",
+            "options": [
+              "A system for managing changes to computer programs",
+              "A method of debugging",
+              "A type of database"
+            ],
+            "correct": "A system for managing changes to computer programs"
+          },
+          {
+            "question": "What is a user interface (UI)?",
+            "options": [
+              "The space where interactions between humans and machines occur",
+              "A type of hardware",
+              "A programming language"
+            ],
+            "correct": "The space where interactions between humans and machines occur"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is software architecture?",
+            "options": [
+              "The high-level structure of a software system",
+              "A type of programming language",
+              "A method of debugging"
+            ],
+            "correct": "The high-level structure of a software system"
+          },
+          {
+            "question": "What is continuous integration?",
+            "options": [
+              "The practice of merging all developers' working copies to a shared mainline several times a day",
+              "A type of software bug",
+              "A method of writing code"
+            ],
+            "correct": "The practice of merging all developers' working copies to a shared mainline several times a day"
+          },
+          {
+            "question": "What is a microservice architecture?",
+            "options": [
+              "An architectural style that structures an application as a collection of loosely coupled services",
+              "A type of hardware architecture",
+              "A programming language"
+            ],
+            "correct": "An architectural style that structures an application as a collection of loosely coupled services"
+          },
+          {
+            "question": "What is the purpose of unit testing?",
+            "options": [
+              "To validate that each unit of the software performs as expected",
+              "To design user interfaces",
+              "To manage version control"
+            ],
+            "correct": "To validate that each unit of the software performs as expected"
+          },
+          {
+            "question": "What is agile development?",
+            "options": [
+              "A method of project management characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans",
+              "A type of programming language",
+              "A method of version control"
+            ],
+            "correct": "A method of project management characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans"
+          }
+        ]
+      },
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is DevOps?",
+            "options": [
+              "A set of practices that combines software development and IT operations",
+              "A type of database management",
+              "A method of debugging software"
+            ],
+            "correct": "A set of practices that combines software development and IT operations"
+          },
+          {
+            "question": "What is technical debt?",
+            "options": [
+              "The implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer",
+              "A type of financial obligation",
+              "A programming error"
+            ],
+            "correct": "The implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer"
+          },
+          {
+            "question": "What is machine learning?",
+            "options": [
+              "A field of artificial intelligence that uses statistical techniques to give computer systems the ability to 'learn' from data",
+              "A type of database",
+              "A programming language"
+            ],
+            "correct": "A field of artificial intelligence that uses statistical techniques to give computer systems the ability to 'learn' from data"
+          },
+          {
+            "question": "What is the purpose of a code review?",
+            "options": [
+              "To systematically examine computer source code",
+              "To write new code",
+              "To design a database"
+            ],
+            "correct": "To systematically examine computer source code"
+          },
+          {
+            "question": "What is the role of a software architect?",
+            "options": [
+              "To make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms",
+              "To write code for applications",
+              "To test software for bugs"
+            ],
+            "correct": "To make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms"
+          }
+        ]
+      }
+     ]
+  },
+
+  
+  {
+    "program": "ING-ALIMENTOS",
+     "levels":[
+
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is food?",
+            "options": [
+              "Anything people eat or drink",
+              "A type of plant",
+              "A method of cooking"
+            ],
+            "correct": "Anything people eat or drink"
+          },
+          {
+            "question": "What is water?",
+            "options": [
+              "A liquid essential for life",
+              "A type of food",
+              "A type of plant"
+            ],
+            "correct": "A liquid essential for life"
+          },
+          {
+            "question": "What is a vegetable?",
+            "options": [
+              "A plant or part of a plant used as food",
+              "A type of drink",
+              "A cooking tool"
+            ],
+            "correct": "A plant or part of a plant used as food"
+          },
+          {
+            "question": "What is cooking?",
+            "options": [
+              "Preparing food for eating by heating it",
+              "Eating food",
+              "Buying food"
+            ],
+            "correct": "Preparing food for eating by heating it"
+          },
+          {
+            "question": "What is a kitchen?",
+            "options": [
+              "A room where food is prepared and cooked",
+              "A type of food",
+              "A cooking method"
+            ],
+            "correct": "A room where food is prepared and cooked"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a recipe?",
+            "options": [
+              "A set of instructions for preparing a particular dish",
+              "A type of food",
+              "A cooking tool"
+            ],
+            "correct": "A set of instructions for preparing a particular dish"
+          },
+          {
+            "question": "What is a fruit?",
+            "options": [
+              "The sweet and fleshy product of a tree or other plant that contains seed",
+              "A type of drink",
+              "A cooking method"
+            ],
+            "correct": "The sweet and fleshy product of a tree or other plant that contains seed"
+          },
+          {
+            "question": "What is boiling?",
+            "options": [
+              "Cooking food by immersing it in water at high temperature",
+              "A type of food",
+              "A kitchen appliance"
+            ],
+            "correct": "Cooking food by immersing it in water at high temperature"
+          },
+          {
+            "question": "What is baking?",
+            "options": [
+              "Cooking food using dry heat, typically in an oven",
+              "A type of fruit",
+              "A drink"
+            ],
+            "correct": "Cooking food using dry heat, typically in an oven"
+          },
+          {
+            "question": "What is an ingredient?",
+            "options": [
+              "Any of the foods or substances that are combined to make a particular dish",
+              "A cooking method",
+              "A kitchen appliance"
+            ],
+            "correct": "Any of the foods or substances that are combined to make a particular dish"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is food preservation?",
+            "options": [
+              "Methods of keeping food from spoiling",
+              "A type of cooking",
+              "A type of ingredient"
+            ],
+            "correct": "Methods of keeping food from spoiling"
+          },
+          {
+            "question": "What is fermentation?",
+            "options": [
+              "The chemical breakdown of a substance by bacteria, yeasts, or other microorganisms",
+              "A type of cooking method",
+              "A type of food preservation"
+            ],
+            "correct": "The chemical breakdown of a substance by bacteria, yeasts, or other microorganisms"
+          },
+          {
+            "question": "What is a calorie?",
+            "options": [
+              "A unit of energy provided by food",
+              "A cooking technique",
+              "A kitchen tool"
+            ],
+            "correct": "A unit of energy provided by food"
+          },
+          {
+            "question": "What is a nutrient?",
+            "options": [
+              "A substance that provides nourishment essential for growth and the maintenance of life",
+              "A type of cooking method",
+              "A type of food"
+            ],
+            "correct": "A substance that provides nourishment essential for growth and the maintenance of life"
+          },
+          {
+            "question": "What is a balanced diet?",
+            "options": [
+              "Eating a variety of foods in the right proportions",
+              "A type of diet plan",
+              "A method of food preservation"
+            ],
+            "correct": "Eating a variety of foods in the right proportions"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is food engineering?",
+            "options": [
+              "The application of engineering principles to the storage, processing, and distribution of food",
+              "A type of cooking",
+              "A dietary plan"
+            ],
+            "correct": "The application of engineering principles to the storage, processing, and distribution of food"
+          },
+          {
+            "question": "What is pasteurization?",
+            "options": [
+              "A process of heating food to kill harmful microorganisms",
+              "A method of freezing food",
+              "A cooking technique"
+            ],
+            "correct": "A process of heating food to kill harmful microorganisms"
+          },
+          {
+            "question": "What is a food additive?",
+            "options": [
+              "A substance added to food to enhance its flavor, appearance, or preservation",
+              "A type of ingredient",
+              "A method of cooking"
+            ],
+            "correct": "A substance added to food to enhance its flavor, appearance, or preservation"
+          },
+          {
+            "question": "What is shelf life?",
+            "options": [
+              "The length of time for which food remains safe and suitable to eat",
+              "A type of food",
+              "A storage method"
+            ],
+            "correct": "The length of time for which food remains safe and suitable to eat"
+          },
+          {
+            "question": "What is the role of a food scientist?",
+            "options": [
+              "To study the physical, biological, and chemical makeup of food and develop ways to process, preserve, and package food",
+              "To cook meals",
+              "To sell food products"
+            ],
+            "correct": "To study the physical, biological, and chemical makeup of food and develop ways to process, preserve, and package food"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is HACCP?",
+            "options": [
+              "A management system addressing food safety through the analysis and control of biological, chemical, and physical hazards",
+              "A cooking technique",
+              "A type of food ingredient"
+            ],
+            "correct": "A management system addressing food safety through the analysis and control of biological, chemical, and physical hazards"
+          },
+          {
+            "question": "What is the Maillard reaction?",
+            "options": [
+              "A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor",
+              "A method of food preservation",
+              "A dietary supplement"
+            ],
+            "correct": "A chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor"
+          },
+          {
+            "question": "What is biotechnology in food production?",
+            "options": [
+              "The use of living systems and organisms to develop or make food products",
+              "A cooking technique",
+              "A storage method"
+            ],
+            "correct": "The use of living systems and organisms to develop or make food products"
+          },
+          {
+            "question": "What is food fortification?",
+            "options": [
+              "The process of adding micronutrients to food",
+              "A method of packaging food",
+              "A cooking technique"
+            ],
+            "correct": "The process of adding micronutrients to food"
+          },
+          {
+            "question": "What is food irradiation?",
+            "options": [
+              "The process of exposing food to ionizing radiation to kill bacteria, viruses, or insects",
+              "A method of freezing food",
+              "A type of fermentation"
+            ],
+            "correct": "The process of exposing food to ionizing radiation to kill bacteria, viruses, or insects"
+          }
+        ]
+      },
+
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the role of a food process engineer?",
+            "options": [
+              "To design and implement processes for the large-scale production of food products",
+              "To manage a restaurant kitchen",
+              "To develop dietary plans"
+            ],
+            "correct": "To design and implement processes for the large-scale production of food products"
+          },
+          {
+            "question": "What is the significance of the Codex Alimentarius?",
+            "options": [
+              "It provides international food standards, guidelines, and codes of practice to ensure food safety and quality",
+              "It is a recipe book",
+              "It is a type of food additive"
+            ],
+            "correct": "It provides international food standards, guidelines, and codes of practice to ensure food safety and quality"
+          },
+          {
+            "question": "What is enzymatic browning?",
+            "options": [
+              "A chemical process which occurs in fruits and vegetables causing them to turn brown",
+              "A method of food preservation",
+              "A cooking technique"
+            ],
+            "correct": "A chemical process which occurs in fruits and vegetables causing them to turn brown"
+          },
+          {
+            "question": "What is food traceability?",
+            "options": [
+              "The ability to track the production, processing, and distribution of food products",
+              "A method of cooking",
+              "A type of food packaging"
+            ],
+            "correct": "The ability to track the production, processing, and distribution of food products"
+          },
+          {
+            "question": "What is the purpose of a sensory evaluation in food engineering?",
+            "options": [
+              "To assess the taste, smell, texture, and appearance of food products",
+              "To determine the nutritional value of food",
+              "To design food packaging"
+            ],
+            "correct": "To assess the taste, smell, texture, and appearance of food products"
+          }
+        ]
+      }
+     
+     ]
+  },
+
+  {
+    "program" : "NUTRICION",
+    "levels": [
+           
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is nutrition?",
+            "options": [
+              "The process of taking in food and using it for growth and health",
+              "A type of exercise",
+              "A method of cooking"
+            ],
+            "correct": "The process of taking in food and using it for growth and health"
+          },
+          {
+            "question": "What is a nutrient?",
+            "options": [
+              "A substance that provides nourishment essential for growth and life",
+              "A type of food",
+              "A kitchen tool"
+            ],
+            "correct": "A substance that provides nourishment essential for growth and life"
+          },
+          {
+            "question": "What is water?",
+            "options": [
+              "A liquid essential for life",
+              "A type of food",
+              "A type of fruit"
+            ],
+            "correct": "A liquid essential for life"
+          },
+          {
+            "question": "What is a vegetable?",
+            "options": [
+              "A plant or part of a plant used as food",
+              "A type of drink",
+              "A cooking tool"
+            ],
+            "correct": "A plant or part of a plant used as food"
+          },
+          {
+            "question": "What is a kitchen?",
+            "options": [
+              "A room where food is prepared and cooked",
+              "A type of food",
+              "A cooking method"
+            ],
+            "correct": "A room where food is prepared and cooked"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a balanced diet?",
+            "options": [
+              "Eating a variety of foods in the right proportions",
+              "Eating only fruits",
+              "Eating only vegetables"
+            ],
+            "correct": "Eating a variety of foods in the right proportions"
+          },
+          {
+            "question": "What is a calorie?",
+            "options": [
+              "A unit of energy provided by food",
+              "A type of food",
+              "A cooking method"
+            ],
+            "correct": "A unit of energy provided by food"
+          },
+          {
+            "question": "What is protein?",
+            "options": [
+              "A nutrient that helps build and repair body tissues",
+              "A type of fruit",
+              "A method of cooking"
+            ],
+            "correct": "A nutrient that helps build and repair body tissues"
+          },
+          {
+            "question": "What is a vitamin?",
+            "options": [
+              "An organic compound essential for normal growth and nutrition",
+              "A type of food",
+              "A cooking tool"
+            ],
+            "correct": "An organic compound essential for normal growth and nutrition"
+          },
+          {
+            "question": "What is a recipe?",
+            "options": [
+              "A set of instructions for preparing a particular dish",
+              "A type of food",
+              "A cooking tool"
+            ],
+            "correct": "A set of instructions for preparing a particular dish"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is metabolism?",
+            "options": [
+              "The chemical processes that occur within a living organism to maintain life",
+              "A type of food",
+              "A cooking technique"
+            ],
+            "correct": "The chemical processes that occur within a living organism to maintain life"
+          },
+          {
+            "question": "What is fiber?",
+            "options": [
+              "A type of carbohydrate that the body cannot digest",
+              "A type of protein",
+              "A method of cooking"
+            ],
+            "correct": "A type of carbohydrate that the body cannot digest"
+          },
+          {
+            "question": "What is a mineral?",
+            "options": [
+              "A naturally occurring substance essential for the body's functioning",
+              "A type of food",
+              "A kitchen appliance"
+            ],
+            "correct": "A naturally occurring substance essential for the body's functioning"
+          },
+          {
+            "question": "What is hydration?",
+            "options": [
+              "Maintaining the right balance of fluids in the body",
+              "A cooking method",
+              "A type of fruit"
+            ],
+            "correct": "Maintaining the right balance of fluids in the body"
+          },
+          {
+            "question": "What is a dietitian?",
+            "options": [
+              "A health professional who specializes in nutrition and diet",
+              "A type of exercise coach",
+              "A chef"
+            ],
+            "correct": "A health professional who specializes in nutrition and diet"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is the glycemic index?",
+            "options": [
+              "A measure of how quickly a food causes a rise in blood sugar levels",
+              "A type of diet",
+              "A cooking technique"
+            ],
+            "correct": "A measure of how quickly a food causes a rise in blood sugar levels"
+          },
+          {
+            "question": "What is a macronutrient?",
+            "options": [
+              "A type of nutrient that is required in large amounts by the body",
+              "A type of vitamin",
+              "A cooking method"
+            ],
+            "correct": "A type of nutrient that is required in large amounts by the body"
+          },
+          {
+            "question": "What is an antioxidant?",
+            "options": [
+              "A substance that inhibits oxidation and can protect the body from damage by free radicals",
+              "A type of protein",
+              "A cooking tool"
+            ],
+            "correct": "A substance that inhibits oxidation and can protect the body from damage by free radicals"
+          },
+          {
+            "question": "What is lactose intolerance?",
+            "options": [
+              "The inability to digest lactose, a sugar found in milk and dairy products",
+              "A type of diet",
+              "A cooking method"
+            ],
+            "correct": "The inability to digest lactose, a sugar found in milk and dairy products"
+          },
+          {
+            "question": "What is cholesterol?",
+            "options": [
+              "A waxy substance found in the blood that is necessary for building cells but can cause heart disease if levels are too high",
+              "A type of protein",
+              "A cooking technique"
+            ],
+            "correct": "A waxy substance found in the blood that is necessary for building cells but can cause heart disease if levels are too high"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is the role of a clinical nutritionist?",
+            "options": [
+              "To assess, diagnose, and treat dietary and nutritional problems at an individual level",
+              "To cook healthy meals",
+              "To manage a fitness center"
+            ],
+            "correct": "To assess, diagnose, and treat dietary and nutritional problems at an individual level"
+          },
+          {
+            "question": "What is the significance of omega-3 fatty acids?",
+            "options": [
+              "They are essential fats that have various health benefits, including reducing inflammation and lowering the risk of heart disease",
+              "They are a type of protein",
+              "They are used in cooking"
+            ],
+            "correct": "They are essential fats that have various health benefits, including reducing inflammation and lowering the risk of heart disease"
+          },
+          {
+            "question": "What is a ketogenic diet?",
+            "options": [
+              "A high-fat, low-carbohydrate diet that induces a state of ketosis in the body",
+              "A vegetarian diet",
+              "A diet high in protein"
+            ],
+            "correct": "A high-fat, low-carbohydrate diet that induces a state of ketosis in the body"
+          },
+          {
+            "question": "What is metabolic syndrome?",
+            "options": [
+              "A cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes",
+              "A type of exercise routine",
+              "A cooking method"
+            ],
+            "correct": "A cluster of conditions that occur together, increasing the risk of heart disease, stroke, and type 2 diabetes"
+          },
+          {
+            "question": "What is the function of dietary fiber?",
+            "options": [
+              "To aid digestion and prevent constipation",
+              "To build muscle",
+              "To provide energy"
+            ],
+            "correct": "To aid digestion and prevent constipation"
+          }
+        ]
+      },
+
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the role of epigenetics in nutrition?",
+            "options": [
+              "The study of changes in organisms caused by modification of gene expression rather than alteration of the genetic code itself, influenced by dietary factors",
+              "A type of diet",
+              "A cooking technique"
+            ],
+            "correct": "The study of changes in organisms caused by modification of gene expression rather than alteration of the genetic code itself, influenced by dietary factors"
+          },
+          {
+            "question": "What is nutrigenomics?",
+            "options": [
+              "The study of the interaction between nutrition and genes, especially with regard to the prevention or treatment of disease",
+              "A type of diet",
+              "A cooking method"
+            ],
+            "correct": "The study of the interaction between nutrition and genes, especially with regard to the prevention or treatment of disease"
+          },
+          {
+            "question": "What are polyphenols, and why are they important?",
+            "options": [
+              "Polyphenols are micronutrients with antioxidant properties that may protect against various diseases",
+              "A type of protein",
+              "A form of carbohydrate"
+            ],
+            "correct": "Polyphenols are micronutrients with antioxidant properties that may protect against various diseases"
+          },
+          {
+            "question": "What is the function of the microbiome in human health?",
+            "options": [
+              "The microbiome consists of the microorganisms living in the human body, playing crucial roles in digestion, immune function, and overall health",
+              "It is a type of diet",
+              "It is a cooking method"
+            ],
+            "correct": "The microbiome consists of the microorganisms living in the human body, playing crucial roles in digestion, immune function, and overall health"
+          },
+          {
+            "question": "What is bioavailability, and why is it significant in nutrition?",
+            "options": [
+              "Bioavailability refers to the extent to which nutrients can be absorbed and utilized by the body, affecting their nutritional value and efficacy",
+              "It is a type of diet",
+              "It is a measure of calorie content"
+            ],
+            "correct": "Bioavailability refers to the extent to which nutrients can be absorbed and utilized by the body, affecting their nutritional value and efficacy"
+          }
+        ]
+      }        
+    ]
+
+  },
+
+  {
+    "program" : "TECNO-ALIMENTOS",
+    "levels":[
+
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is food?",
+            "options": [
+              "Something we eat to get energy and nutrients",
+              "A type of exercise",
+              "A kind of clothing"
+            ],
+            "correct": "Something we eat to get energy and nutrients"
+          },
+          {
+            "question": "What is water?",
+            "options": [
+              "A liquid we drink to stay hydrated",
+              "A type of food",
+              "A tool for cooking"
+            ],
+            "correct": "A liquid we drink to stay hydrated"
+          },
+          {
+            "question": "What is a fruit?",
+            "options": [
+              "A sweet and edible part of a plant",
+              "A type of drink",
+              "A cooking tool"
+            ],
+            "correct": "A sweet and edible part of a plant"
+          },
+          {
+            "question": "What is a vegetable?",
+            "options": [
+              "A plant or part of a plant used as food",
+              "A type of clothing",
+              "A method of cooking"
+            ],
+            "correct": "A plant or part of a plant used as food"
+          },
+          {
+            "question": "What is a kitchen?",
+            "options": [
+              "A room where food is prepared and cooked",
+              "A type of fruit",
+              "A type of exercise"
+            ],
+            "correct": "A room where food is prepared and cooked"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a balanced diet?",
+            "options": [
+              "Eating a variety of foods in the right proportions",
+              "Eating only fruits",
+              "Eating only vegetables"
+            ],
+            "correct": "Eating a variety of foods in the right proportions"
+          },
+          {
+            "question": "What is a calorie?",
+            "options": [
+              "A unit of energy provided by food",
+              "A type of food",
+              "A cooking method"
+            ],
+            "correct": "A unit of energy provided by food"
+          },
+          {
+            "question": "What is protein?",
+            "options": [
+              "A nutrient that helps build and repair body tissues",
+              "A type of fruit",
+              "A method of cooking"
+            ],
+            "correct": "A nutrient that helps build and repair body tissues"
+          },
+          {
+            "question": "What is a vitamin?",
+            "options": [
+              "An organic compound essential for normal growth and nutrition",
+              "A type of food",
+              "A cooking tool"
+            ],
+            "correct": "An organic compound essential for normal growth and nutrition"
+          },
+          {
+            "question": "What is a recipe?",
+            "options": [
+              "A set of instructions for preparing a particular dish",
+              "A type of food",
+              "A cooking tool"
+            ],
+            "correct": "A set of instructions for preparing a particular dish"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is food preservation?",
+            "options": [
+              "Methods to keep food safe and fresh for a longer time",
+              "A cooking technique",
+              "A type of food"
+            ],
+            "correct": "Methods to keep food safe and fresh for a longer time"
+          },
+          {
+            "question": "What is food processing?",
+            "options": [
+              "The transformation of raw ingredients into food products",
+              "A type of diet",
+              "A kitchen tool"
+            ],
+            "correct": "The transformation of raw ingredients into food products"
+          },
+          {
+            "question": "What is pasteurization?",
+            "options": [
+              "A process of heating food to kill harmful bacteria",
+              "A method of cooking",
+              "A type of packaging"
+            ],
+            "correct": "A process of heating food to kill harmful bacteria"
+          },
+          {
+            "question": "What is fermentation?",
+            "options": [
+              "A process that converts sugars into alcohol or acids",
+              "A cooking method",
+              "A type of fruit"
+            ],
+            "correct": "A process that converts sugars into alcohol or acids"
+          },
+          {
+            "question": "What is a food additive?",
+            "options": [
+              "A substance added to food to enhance its flavor, appearance, or preservation",
+              "A type of food",
+              "A kitchen tool"
+            ],
+            "correct": "A substance added to food to enhance its flavor, appearance, or preservation"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is the role of food technology?",
+            "options": [
+              "To develop and improve food products and processes",
+              "To create new recipes",
+              "To manage restaurants"
+            ],
+            "correct": "To develop and improve food products and processes"
+          },
+          {
+            "question": "What is the importance of food safety?",
+            "options": [
+              "To prevent foodborne illnesses and ensure that food is safe to eat",
+              "To make food taste better",
+              "To increase food production"
+            ],
+            "correct": "To prevent foodborne illnesses and ensure that food is safe to eat"
+          },
+          {
+            "question": "What is food packaging?",
+            "options": [
+              "Materials used to contain and protect food products",
+              "A cooking method",
+              "A type of food"
+            ],
+            "correct": "Materials used to contain and protect food products"
+          },
+          {
+            "question": "What is the shelf life of a food product?",
+            "options": [
+              "The length of time a food product remains safe to eat and retains its desired qualities",
+              "The time it takes to cook the food",
+              "The period during which food can be stored in the refrigerator"
+            ],
+            "correct": "The length of time a food product remains safe to eat and retains its desired qualities"
+          },
+          {
+            "question": "What is a food scientist?",
+            "options": [
+              "A professional who studies the physical, chemical, and biological properties of food",
+              "A chef",
+              "A dietitian"
+            ],
+            "correct": "A professional who studies the physical, chemical, and biological properties of food"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is the role of biotechnology in food production?",
+            "options": [
+              "To enhance the quality and safety of food through genetic modification and other technologies",
+              "To cook food faster",
+              "To package food"
+            ],
+            "correct": "To enhance the quality and safety of food through genetic modification and other technologies"
+          },
+          {
+            "question": "What is HACCP (Hazard Analysis and Critical Control Points)?",
+            "options": [
+              "A systematic approach to food safety that identifies potential hazards and implements control measures to prevent them",
+              "A type of diet",
+              "A cooking method"
+            ],
+            "correct": "A systematic approach to food safety that identifies potential hazards and implements control measures to prevent them"
+          },
+          {
+            "question": "What is the significance of the food supply chain?",
+            "options": [
+              "It encompasses all the stages involved in producing, processing, and distributing food from farm to table",
+              "It is a method of cooking",
+              "It is a type of diet"
+            ],
+            "correct": "It encompasses all the stages involved in producing, processing, and distributing food from farm to table"
+          },
+          {
+            "question": "What is sensory evaluation in food technology?",
+            "options": [
+              "The scientific method used to measure, analyze, and interpret reactions to the characteristics of food as perceived by the senses of sight, smell, taste, touch, and hearing",
+              "A cooking technique",
+              "A method of food preservation"
+            ],
+            "correct": "The scientific method used to measure, analyze, and interpret reactions to the characteristics of food as perceived by the senses of sight, smell, taste, touch, and hearing"
+          },
+          {
+            "question": "What is the purpose of food irradiation?",
+            "options": [
+              "To use ionizing radiation to kill bacteria, parasites, and other pathogens in food, extending its shelf life and ensuring its safety",
+              "To cook food",
+              "To package food"
+            ],
+            "correct": "To use ionizing radiation to kill bacteria, parasites, and other pathogens in food, extending its shelf life and ensuring its safety"
+          }
+        ]
+      },
+
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the impact of nanotechnology on food science?",
+            "options": [
+              "Nanotechnology can improve food safety, enhance nutrient delivery, and create novel food packaging materials",
+              "It is a method of cooking",
+              "It is a dietary supplement"
+            ],
+            "correct": "Nanotechnology can improve food safety, enhance nutrient delivery, and create novel food packaging materials"
+          },
+          {
+            "question": "What is the role of food rheology in product development?",
+            "options": [
+              "Food rheology studies the flow and deformation of food materials, important for texture and consistency in product development",
+              "It is a type of diet",
+              "It is a cooking technique"
+            ],
+            "correct": "Food rheology studies the flow and deformation of food materials, important for texture and consistency in product development"
+          },
+          {
+            "question": "What are bioactive compounds in food?",
+            "options": [
+              "Bioactive compounds are substances in foods that can have beneficial effects on health, beyond basic nutrition",
+              "They are a type of protein",
+              "They are a cooking method"
+            ],
+            "correct": "Bioactive compounds are substances in foods that can have beneficial effects on health, beyond basic nutrition"
+          },
+          {
+            "question": "What is the importance of sustainable food systems?",
+            "options": [
+              "Sustainable food systems aim to produce food in ways that are environmentally, economically, and socially sustainable, ensuring food security for future generations",
+              "They are methods of food preservation",
+              "They are types of diets"
+            ],
+            "correct": "Sustainable food systems aim to produce food in ways that are environmentally, economically, and socially sustainable, ensuring food security for future generations"
+          },
+          {
+            "question": "How does the Maillard reaction affect food flavor and color?",
+            "options": [
+              "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned foods their distinctive flavor and color",
+              "It is a method of food packaging",
+              "It is a dietary supplement"
+            ],
+            "correct": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned foods their distinctive flavor and color"
+          }
+        ]
+      }   
+      
+    ]
+  },
+
+  {
+    "program": "TECNO-ELECTRONICA",
+    "levels": [
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is an electrical circuit?",
+            "options": [
+              "A path that electric current flows through",
+              "A type of battery",
+              "A type of switch"
+            ],
+            "correct": "A path that electric current flows through"
+          },
+          {
+            "question": "What is a battery?",
+            "options": [
+              "A device that stores electrical energy",
+              "A type of wire",
+              "A type of resistor"
+            ],
+            "correct": "A device that stores electrical energy"
+          },
+          {
+            "question": "What is a wire?",
+            "options": [
+              "A conductor that allows electricity to flow",
+              "A type of battery",
+              "A type of circuit"
+            ],
+            "correct": "A conductor that allows electricity to flow"
+          },
+          {
+            "question": "What does a light bulb do?",
+            "options": [
+              "Converts electrical energy into light",
+              "Stores electrical energy",
+              "Measures electrical energy"
+            ],
+            "correct": "Converts electrical energy into light"
+          },
+          {
+            "question": "What is a switch?",
+            "options": [
+              "A device that can open or close a circuit",
+              "A type of battery",
+              "A type of light bulb"
+            ],
+            "correct": "A device that can open or close a circuit"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is a resistor?",
+            "options": [
+              "A component that limits the flow of electrical current",
+              "A device that stores energy",
+              "A type of wire"
+            ],
+            "correct": "A component that limits the flow of electrical current"
+          },
+          {
+            "question": "What is a capacitor?",
+            "options": [
+              "A device that stores electrical energy temporarily",
+              "A type of switch",
+              "A type of circuit"
+            ],
+            "correct": "A device that stores electrical energy temporarily"
+          },
+          {
+            "question": "What is an LED?",
+            "options": [
+              "A light-emitting diode",
+              "A type of battery",
+              "A type of resistor"
+            ],
+            "correct": "A light-emitting diode"
+          },
+          {
+            "question": "What does a multimeter measure?",
+            "options": [
+              "Voltage, current, and resistance",
+              "Temperature",
+              "Sound"
+            ],
+            "correct": "Voltage, current, and resistance"
+          },
+          {
+            "question": "What is a soldering iron used for?",
+            "options": [
+              "Joining components together with solder",
+              "Measuring electrical current",
+              "Storing electrical energy"
+            ],
+            "correct": "Joining components together with solder"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is an integrated circuit?",
+            "options": [
+              "A set of electronic circuits on one small flat piece (or chip) of semiconductor material",
+              "A type of battery",
+              "A type of wire"
+            ],
+            "correct": "A set of electronic circuits on one small flat piece (or chip) of semiconductor material"
+          },
+          {
+            "question": "What is the function of a transistor?",
+            "options": [
+              "To amplify or switch electronic signals",
+              "To store energy",
+              "To measure voltage"
+            ],
+            "correct": "To amplify or switch electronic signals"
+          },
+          {
+            "question": "What is an oscilloscope used for?",
+            "options": [
+              "Displaying and analyzing the waveform of electronic signals",
+              "Storing electrical energy",
+              "Limiting the flow of current"
+            ],
+            "correct": "Displaying and analyzing the waveform of electronic signals"
+          },
+          {
+            "question": "What is a microcontroller?",
+            "options": [
+              "A small computer on a single integrated circuit",
+              "A type of resistor",
+              "A type of capacitor"
+            ],
+            "correct": "A small computer on a single integrated circuit"
+          },
+          {
+            "question": "What is a PCB (Printed Circuit Board)?",
+            "options": [
+              "A board used to mechanically support and electrically connect electronic components",
+              "A type of battery",
+              "A type of switch"
+            ],
+            "correct": "A board used to mechanically support and electrically connect electronic components"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is the significance of Ohm's Law in electronics?",
+            "options": [
+              "It defines the relationship between voltage, current, and resistance in an electrical circuit",
+              "It describes the storage capacity of a capacitor",
+              "It measures the efficiency of a transistor"
+            ],
+            "correct": "It defines the relationship between voltage, current, and resistance in an electrical circuit"
+          },
+          {
+            "question": "What is the function of a diode?",
+            "options": [
+              "To allow current to flow in one direction only",
+              "To store energy",
+              "To measure voltage"
+            ],
+            "correct": "To allow current to flow in one direction only"
+          },
+          {
+            "question": "What is pulse-width modulation (PWM)?",
+            "options": [
+              "A technique used to encode the amplitude of a signal into a pulse width",
+              "A type of resistor",
+              "A method of soldering"
+            ],
+            "correct": "A technique used to encode the amplitude of a signal into a pulse width"
+          },
+          {
+            "question": "What is the purpose of a heat sink?",
+            "options": [
+              "To dissipate heat away from electronic components",
+              "To amplify signals",
+              "To measure current"
+            ],
+            "correct": "To dissipate heat away from electronic components"
+          },
+          {
+            "question": "What is a signal generator used for?",
+            "options": [
+              "Generating electrical signals of varying frequencies and amplitudes",
+              "Storing electrical energy",
+              "Limiting current flow"
+            ],
+            "correct": "Generating electrical signals of varying frequencies and amplitudes"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is the function of an operational amplifier (op-amp)?",
+            "options": [
+              "To amplify voltage signals in electronic circuits",
+              "To store energy",
+              "To measure resistance"
+            ],
+            "correct": "To amplify voltage signals in electronic circuits"
+          },
+          {
+            "question": "What is a field-effect transistor (FET) and how is it used?",
+            "options": [
+              "A transistor that uses an electric field to control the flow of current, commonly used in amplifiers and switches",
+              "A device for measuring voltage",
+              "A type of battery"
+            ],
+            "correct": "A transistor that uses an electric field to control the flow of current, commonly used in amplifiers and switches"
+          },
+          {
+            "question": "What is the purpose of a voltage regulator?",
+            "options": [
+              "To maintain a constant output voltage despite variations in input voltage",
+              "To measure electrical resistance",
+              "To switch electronic signals"
+            ],
+            "correct": "To maintain a constant output voltage despite variations in input voltage"
+          },
+          {
+            "question": "What are logic gates, and why are they important?",
+            "options": [
+              "Basic building blocks of digital circuits that perform logical operations",
+              "A type of resistor",
+              "A method of signal modulation"
+            ],
+            "correct": "Basic building blocks of digital circuits that perform logical operations"
+          },
+          {
+            "question": "What is a digital-to-analog converter (DAC)?",
+            "options": [
+              "A device that converts digital signals into analog signals",
+              "A type of microcontroller",
+              "A method of data storage"
+            ],
+            "correct": "A device that converts digital signals into analog signals"
+          }
+        ]
+      },
+
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the role of Fourier transform in signal processing?",
+            "options": [
+              "It transforms a time-domain signal into its frequency-domain representation, useful in analyzing and processing signals",
+              "It measures electrical resistance",
+              "It is a type of transistor"
+            ],
+            "correct": "It transforms a time-domain signal into its frequency-domain representation, useful in analyzing and processing signals"
+          },
+          {
+            "question": "What is a microprocessor, and how does it differ from a microcontroller?",
+            "options": [
+              "A microprocessor is the central processing unit (CPU) of a computer, while a microcontroller includes the CPU along with memory and input/output peripherals on a single chip",
+              "A type of memory chip",
+              "A method of signal modulation"
+            ],
+            "correct": "A microprocessor is the central processing unit (CPU) of a computer, while a microcontroller includes the CPU along with memory and input/output peripherals on a single chip"
+          },
+          {
+            "question": "What is the importance of phase-locked loops (PLL) in electronics?",
+            "options": [
+              "PLLs are used to synchronize signals and maintain the frequency of an oscillator in phase with an external signal, crucial in communication and signal processing",
+              "They are used for storing energy",
+              "They are a type of battery"
+            ],
+            "correct": "PLLs are used to synchronize signals and maintain the frequency of an oscillator in phase with an external signal, crucial in communication and signal processing"
+          },
+          {
+            "question": "What is the function of a digital signal processor (DSP)?",
+            "options": [
+              "A DSP is specialized for the manipulation of digital signals in real-time, used in audio, video, and communications",
+              "It measures voltage",
+              "It stores data"
+            ],
+            "correct": "A DSP is specialized for the manipulation of digital signals in real-time, used in audio, video, and communications"
+          },
+          {
+            "question": "What is the purpose of an analog-to-digital converter (ADC)?",
+            "options": [
+              "An ADC converts analog signals into digital signals, enabling processing and analysis by digital systems",
+              "It amplifies voltage signals",
+              "It is used for data storage"
+            ],
+            "correct": "An ADC converts analog signals into digital signals, enabling processing and analysis by digital systems"
+          }
+        ]
+      }
+
+    ]
+  },
+
+  {
+    "program" : "TRABAJO SOCIAL",
+    "levels":[
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is social work?",
+            "options": [
+              "Helping people in need",
+              "Teaching students",
+              "Building houses"
+            ],
+            "correct": "Helping people in need"
+          },
+          {
+            "question": "Who does a social worker help?",
+            "options": [
+              "People in need",
+              "Teachers",
+              "Builders"
+            ],
+            "correct": "People in need"
+          },
+          {
+            "question": "Where does a social worker work?",
+            "options": [
+              "Hospitals, schools, and community centers",
+              "Construction sites",
+              "Offices only"
+            ],
+            "correct": "Hospitals, schools, and community centers"
+          },
+          {
+            "question": "What is a community?",
+            "options": [
+              "A group of people living together",
+              "A type of building",
+              "A piece of technology"
+            ],
+            "correct": "A group of people living together"
+          },
+          {
+            "question": "What is an example of social work?",
+            "options": [
+              "Helping families with problems",
+              "Teaching math",
+              "Building roads"
+            ],
+            "correct": "Helping families with problems"
+          }
+        ]
+      },
+
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What skills are important for a social worker?",
+            "options": [
+              "Communication and empathy",
+              "Cooking and cleaning",
+              "Driving and swimming"
+            ],
+            "correct": "Communication and empathy"
+          },
+          {
+            "question": "What is counseling?",
+            "options": [
+              "Giving advice and support",
+              "Teaching classes",
+              "Building houses"
+            ],
+            "correct": "Giving advice and support"
+          },
+          {
+            "question": "What is child welfare?",
+            "options": [
+              "Protecting and supporting children",
+              "Teaching adults",
+              "Driving buses"
+            ],
+            "correct": "Protecting and supporting children"
+          },
+          {
+            "question": "Why do social workers visit homes?",
+            "options": [
+              "To help families with problems",
+              "To deliver mail",
+              "To cook meals"
+            ],
+            "correct": "To help families with problems"
+          },
+          {
+            "question": "What does a social worker do in a school?",
+            "options": [
+              "Supports students with personal issues",
+              "Teaches science",
+              "Cleans classrooms"
+            ],
+            "correct": "Supports students with personal issues"
+          }
+        ]
+      },
+
+      {
+        "level": "B1",
+        "questions": [
+          {
+            "question": "What is the role of a social worker in healthcare?",
+            "options": [
+              "Helping patients with emotional and social needs",
+              "Performing surgeries",
+              "Prescribing medication"
+            ],
+            "correct": "Helping patients with emotional and social needs"
+          },
+          {
+            "question": "What is advocacy in social work?",
+            "options": [
+              "Supporting and speaking up for clients' rights",
+              "Teaching language skills",
+              "Repairing electronic devices"
+            ],
+            "correct": "Supporting and speaking up for clients' rights"
+          },
+          {
+            "question": "What is crisis intervention?",
+            "options": [
+              "Providing immediate help in emergencies",
+              "Cooking for large groups",
+              "Building new homes"
+            ],
+            "correct": "Providing immediate help in emergencies"
+          },
+          {
+            "question": "What is a support group?",
+            "options": [
+              "A group where people share experiences and support each other",
+              "A team of builders",
+              "A music band"
+            ],
+            "correct": "A group where people share experiences and support each other"
+          },
+          {
+            "question": "What does 'case management' mean in social work?",
+            "options": [
+              "Coordinating services and support for clients",
+              "Managing a construction site",
+              "Teaching a class"
+            ],
+            "correct": "Coordinating services and support for clients"
+          }
+        ]
+      },
+
+      {
+        "level": "B2",
+        "questions": [
+          {
+            "question": "What is the importance of cultural competence in social work?",
+            "options": [
+              "Understanding and respecting diverse cultures to provide effective support",
+              "Learning a new language",
+              "Cooking traditional meals"
+            ],
+            "correct": "Understanding and respecting diverse cultures to provide effective support"
+          },
+          {
+            "question": "What is a social work intervention?",
+            "options": [
+              "Actions taken to improve a client's situation",
+              "Teaching sports",
+              "Building bridges"
+            ],
+            "correct": "Actions taken to improve a client's situation"
+          },
+          {
+            "question": "What is the role of a social worker in mental health?",
+            "options": [
+              "Supporting clients with mental health issues through counseling and resources",
+              "Prescribing medication",
+              "Performing physical exams"
+            ],
+            "correct": "Supporting clients with mental health issues through counseling and resources"
+          },
+          {
+            "question": "What is the purpose of a social work assessment?",
+            "options": [
+              "Evaluating a client's needs and strengths to develop a support plan",
+              "Teaching a cooking class",
+              "Managing a team of engineers"
+            ],
+            "correct": "Evaluating a client's needs and strengths to develop a support plan"
+          },
+          {
+            "question": "What does 'empowerment' mean in social work?",
+            "options": [
+              "Helping clients gain control over their own lives",
+              "Teaching driving skills",
+              "Repairing household items"
+            ],
+            "correct": "Helping clients gain control over their own lives"
+          }
+        ]
+      },
+
+      {
+        "level": "C1",
+        "questions": [
+          {
+            "question": "What is the significance of evidence-based practice in social work?",
+            "options": [
+              "Using research and evidence to inform and improve practice",
+              "Learning from personal experiences",
+              "Teaching history"
+            ],
+            "correct": "Using research and evidence to inform and improve practice"
+          },
+          {
+            "question": "What are the key elements of a successful community development project?",
+            "options": [
+              "Collaboration, sustainability, and community involvement",
+              "Solo efforts and quick fixes",
+              "High cost and long timelines"
+            ],
+            "correct": "Collaboration, sustainability, and community involvement"
+          },
+          {
+            "question": "What is reflective practice in social work?",
+            "options": [
+              "Regularly analyzing one's own practice to improve skills and effectiveness",
+              "Reading books about social work",
+              "Teaching workshops"
+            ],
+            "correct": "Regularly analyzing one's own practice to improve skills and effectiveness"
+          },
+          {
+            "question": "How does policy analysis contribute to social work?",
+            "options": [
+              "By evaluating policies to advocate for changes that benefit clients",
+              "By designing new policies",
+              "By managing social work offices"
+            ],
+            "correct": "By evaluating policies to advocate for changes that benefit clients"
+          },
+          {
+            "question": "What is the role of ethics in social work practice?",
+            "options": [
+              "Guiding behavior to ensure fairness, respect, and integrity",
+              "Learning new skills",
+              "Teaching ethics courses"
+            ],
+            "correct": "Guiding behavior to ensure fairness, respect, and integrity"
+          }
+        ]
+      },
+
+      
+      {
+        "level": "C2",
+        "questions": [
+          {
+            "question": "What is the impact of social policy on vulnerable populations?",
+            "options": [
+              "Social policy can either support or hinder access to resources and services for vulnerable populations",
+              "It always benefits everyone equally",
+              "It has no real impact"
+            ],
+            "correct": "Social policy can either support or hinder access to resources and services for vulnerable populations"
+          },
+          {
+            "question": "What are the challenges in implementing macro-level social work interventions?",
+            "options": [
+              "Complexity of systems, resistance to change, and resource limitations",
+              "Easy execution and immediate results",
+              "No significant challenges"
+            ],
+            "correct": "Complexity of systems, resistance to change, and resource limitations"
+          },
+          {
+            "question": "What is the significance of interdisciplinary collaboration in social work?",
+            "options": [
+              "Combining expertise from various fields to provide comprehensive support to clients",
+              "Working alone to maintain independence",
+              "Focusing only on social work knowledge"
+            ],
+            "correct": "Combining expertise from various fields to provide comprehensive support to clients"
+          },
+          {
+            "question": "How does globalization affect social work practice?",
+            "options": [
+              "Globalization introduces new challenges and opportunities, requiring social workers to adapt to diverse and interconnected communities",
+              "It has no effect on social work",
+              "It simplifies social work practice"
+            ],
+            "correct": "Globalization introduces new challenges and opportunities, requiring social workers to adapt to diverse and interconnected communities"
+          },
+          {
+            "question": "What is trauma-informed care and its importance in social work?",
+            "options": [
+              "An approach that recognizes and responds to the impact of trauma, promoting healing and avoiding re-traumatization",
+              "A method of teaching new skills",
+              "A form of administrative work"
+            ],
+            "correct": "An approach that recognizes and responds to the impact of trauma, promoting healing and avoiding re-traumatization"
+          }
+        ]
+      }
+
+    ]
   }
+
 ]

@@ -1,0 +1,48 @@
+[
+    {
+      "question": "What is the primary objective of a marketing strategy?",
+      "options": [
+        "To increase product prices",
+        "To attract and retain customers",
+        "To reduce production costs"
+      ],
+      "correct": "To attract and retain customers"
+    },
+    {
+      "question": "What does CRM stand for?",
+      "options": [
+        "Customer Relationship Management",
+        "Corporate Resource Management",
+        "Critical Risk Management"
+      ],
+      "correct": "Customer Relationship Management"
+    },
+    {
+      "question": "What is a liability in accounting?",
+      "options": [
+        "A company's asset",
+        "A company's debt or obligation",
+        "A company's revenue"
+      ],
+      "correct": "A company's debt or obligation"
+    },
+    {
+      "question": "What is the function of the R&D department?",
+      "options": [
+        "To oversee financial transactions",
+        "To develop new products and improve existing ones",
+        "To manage human resources"
+      ],
+      "correct": "To develop new products and improve existing ones"
+    },
+    {
+      "question": "What does a P&L statement show?",
+      "options": [
+        "Profits and liabilities",
+        "Products and logistics",
+        "Profits and losses"
+      ],
+      "correct": "Profits and losses"
+    }
+  ]
+  
