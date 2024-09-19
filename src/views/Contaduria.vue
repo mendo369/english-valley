@@ -84,7 +84,7 @@ const changeLevel = (level) => {
 </template>
 
 <style scoped>
-.ing-sistemas {
+.contaduria {
   display: grid;
   grid-template-rows: 10% 1fr;
   gap: 2em;
