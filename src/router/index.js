@@ -16,6 +16,11 @@ const router = createRouter({
       component: () => import("../views/IngSistemas.vue"),
     },
     {
+      path: "/agroindustria",
+      name: "agroindustria",
+      component: () => import("../views/Agroindustria.vue"),
+    },
+    {
       path: "/ing-alimentos",
       name: "ing-alimentos",
       component: () => import("../views/IngAlimentos.vue"),

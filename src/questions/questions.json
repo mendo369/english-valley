@@ -3446,6 +3446,120 @@
       }
 
     ]
+  },
+  {
+    "program": "AGROINDUSTRIA",
+    "levels": [
+      {
+        "level": "A1",
+        "questions": [
+          {
+            "question": "What is the process of keeping food from spoiling?",
+            "options": ["Preservation", "Cooking", "Eating"],
+            "correct": "Preservation"
+          },
+          {
+            "question": "Which machine is used for harvesting crops?",
+            "options": ["Tractor", "Harvester", "Truck"],
+            "correct": "Harvester"
+          },
+          {
+            "question": "What is the main ingredient in cheese?",
+            "options": ["Water", "Milk", "Sugar"],
+            "correct": "Milk"
+          },
+          {
+            "question": "What does 'FDA' stand for in the food industry?",
+            "options": ["Food and Drug Administration", "Fast Delivery Association", "Federal Dairy Agency"],
+            "correct": "Food and Drug Administration"
+          },
+          {
+            "question": "Which of these is a cereal crop?",
+            "options": ["Apple", "Wheat", "Tomato"],
+            "correct": "Wheat"
+          },
+          {
+            "question": "What is 'pasteurization'?",
+            "options": ["Heating food to kill bacteria", "Freezing food", "Adding salt to food"],
+            "correct": "Heating food to kill bacteria"
+          },
+          {
+            "question": "What is 'raw material' in agroindustry?",
+            "options": ["Finished products", "Unprocessed agricultural products", "Waste material"],
+            "correct": "Unprocessed agricultural products"
+          },
+          {
+            "question": "What tool is used to measure temperature?",
+            "options": ["Scale", "Thermometer", "Clock"],
+            "correct": "Thermometer"
+          },
+          {
+            "question": "Which department ensures food safety?",
+            "options": ["Sales", "Quality Control", "Marketing"],
+            "correct": "Quality Control"
+          },
+          {
+            "question": "What is 'milling'?",
+            "options": ["Planting seeds", "Grinding grain into flour", "Watering crops"],
+            "correct": "Grinding grain into flour"
+          }
+        ]
+      },
+      {
+        "level": "A2",
+        "questions": [
+          {
+            "question": "What is 'shelf life'?",
+            "options": ["The time food remains fit for consumption", "The size of the storage area", "The cost of the product"],
+            "correct": "The time food remains fit for consumption"
+          },
+          {
+            "question": "What is the purpose of dehydration?",
+            "options": ["To add water", "To remove moisture from food", "To change the color"],
+            "correct": "To remove moisture from food"
+          },
+          {
+            "question": "What is a 'by-product'?",
+            "options": ["The main product", "A secondary product made during manufacture", "A defected item"],
+            "correct": "A secondary product made during manufacture"
+          },
+          {
+            "question": "What does 'packaging' protect food from?",
+            "options": ["Contamination and damage", "High prices", "Flavor"],
+            "correct": "Contamination and damage"
+          },
+          {
+            "question": "What is 'fermentation'?",
+            "options": ["Cooling food", "Chemical breakdown of a substance by bacteria or yeast", "Washing vegetables"],
+            "correct": "Chemical breakdown of a substance by bacteria or yeast"
+          },
+          {
+            "question": "What is an 'agrochemical'?",
+            "options": ["Kitchen tool", "Chemicals used in agriculture like fertilizers", "Type of soil"],
+            "correct": "Chemicals used in agriculture like fertilizers"
+          },
+          {
+            "question": "What is 'traceability' in food production?",
+            "options": ["The ability to track food through all stages", "The weight of the product", "The speed of delivery"],
+            "correct": "The ability to track food through all stages"
+          },
+          {
+            "question": "What is 'pH' measurement used for?",
+            "options": ["To measure weight", "To determine acidity or alkalinity", "To check distance"],
+            "correct": "To determine acidity or alkalinity"
+          },
+          {
+            "question": "What is 'sustainable agriculture'?",
+            "options": ["Farming that meets present needs without compromising the future", "Using a lot of chemicals", "Only growing one crop"],
+            "correct": "Farming that meets present needs without compromising the future"
+          },
+          {
+            "question": "What is 'pest control'?",
+            "options": ["Managing insects that damage crops", "Feeding animals", "Selling seeds"],
+            "correct": "Managing insects that damage crops"
+          }
+        ]
+      }
+    ]
   }
-
 ]
