@@ -3,5 +3,5 @@ import ProgramQuiz from "../components/questions/ProgramQuiz.vue";
 </script>
 
 <template>
-  <ProgramQuiz programId="TECNOLOGIA-ELECTRONICA" />
+  <ProgramQuiz programId="TECNOLOGIA ELECTRONICA" />
 </template>
