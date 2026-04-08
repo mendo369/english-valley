@@ -12,7 +12,10 @@
       </div>
       <div class="collaborator">
         <div class="img">
-          <img src="../../assets/collaborators/daniel_grajales.jpg" alt="Daniel Grajales" />
+          <img
+            src="../../assets/collaborators/daniel_grajales.jpg"
+            alt="Daniel Grajales"
+          />
         </div>
         <span class="name">Daniel Grajales</span>
       </div>
@@ -37,7 +40,6 @@
 }
 
 .title {
-  font-size: x-large;
   text-align: center;
 }
 

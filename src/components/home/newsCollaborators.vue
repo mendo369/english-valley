@@ -3,11 +3,12 @@
 <template>
   <section class="news-collaborators">
     <div class="title">
-      <h1>
-        Si quieres que la aplicación crezca, puedes ayudar enviando
-        nuevas preguntas de cualquier programa académico y de cualquier nivel de
-        inglés. 👩‍🚀👨‍🚀🚀
-      </h1>
+      <p>
+        ¿Tienes preguntas que compartir? 💡 Ayúdanos a expandir este valle de 
+        conocimiento. Si conoces temas clave de tu programa académico o niveles 
+        específicos de inglés, ¡contáctanos y sé parte del crecimiento de 
+        <strong>English Valley</strong>! 👩‍🚀👨‍🚀🚀
+      </p>
     </div>
     <div class="networks">
       <a

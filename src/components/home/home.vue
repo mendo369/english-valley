@@ -6,10 +6,12 @@
       <div class="title"><h1>English Valley</h1></div>
       <div class="description">
         <p>
-          ¡Hey, hola! 👋 Bienvenido a English Valley, una app para repasar
-          inglés con varios temas de tu programa académico, No importa tu
-          nivel, A1 o C2, aquí puedes repasar un rato. <br />
-          También puedes ayudar a crecer la aplicación incluyendo tus propios temas 💪🔥
+          ¡Bienvenido a <strong>English Valley</strong>! 👋 Tu plataforma 
+          interactiva para fortalecer el inglés enfocado en tu carrera profesional. 
+          Desde niveles básicos (A1) hasta avanzados (C2), aquí encontrarás el 
+          contenido que necesitas para destacar en tu programa académico. 
+          <br /><br />
+          ¡Explora, aprende y contribuye a nuestra comunidad! 🚀✨
         </p>
       </div>
     </div>
@@ -40,7 +42,8 @@
 }
 
 .title {
-  font-size: xx-large;
+  font-size: 2.2rem;
+  line-height: 1.2;
 }
 
 .img {
