@@ -10,12 +10,12 @@ export const questionsStore = defineStore({
     getQuestions(program, level) {
       try {
         const _program = Questions.find((item) => item.program == program);
-
         const _level = _program.levels.find((l) => l.level == level);
+        
+        // Shuffle questions
+        const shuffled = [..._level.questions].sort(() => Math.random() - 0.5);
 
-        const questions = _level.questions;
-
-        this.questions = questions;
+        this.questions = shuffled;
         this.level = level;
       } catch (error) {
         this.questions = [];
